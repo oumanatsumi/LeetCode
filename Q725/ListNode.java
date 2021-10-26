@@ -1,4 +1,4 @@
-package Q725;
+package LeetCode.Q725;
 
 public class ListNode {
     int val;

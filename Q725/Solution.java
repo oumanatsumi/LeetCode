@@ -1,4 +1,4 @@
-package Q725;
+package LeetCode.Q725;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,13 +7,7 @@ import java.util.List;
  * Definition for singly-linked list.
  */
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-}
+
 
 
 
@@ -44,9 +38,4 @@ class Solution {
         }
 
 
-
-    public static void main(String[] args) throws Exception {
-        Solution s = new Solution();
-
-    }
 }
