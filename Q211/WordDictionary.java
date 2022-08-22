@@ -1,9 +1,9 @@
-package LeetCode.Q211;
+package Q211;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import LeetCode.Q208.Trie;
+import Q208.Trie;
 /**
  * @author Ouma Natsumi
  */

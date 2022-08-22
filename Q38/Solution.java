@@ -1,6 +1,5 @@
-package LeetCode.Q38;
+package Q38;
 
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 import java.util.ArrayList;
 import java.util.List;

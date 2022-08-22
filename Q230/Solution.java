@@ -1,4 +1,4 @@
-package LeetCode.Q230;
+package Q230;
 
 import java.net.Socket;
 import java.util.*;

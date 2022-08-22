@@ -1,4 +1,4 @@
-package LeetCode.Q268;
+package Q268;
 
 public class Solution {
     public int missingNumber(int[] nums) {

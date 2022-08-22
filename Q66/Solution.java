@@ -1,4 +1,4 @@
-package LeetCode.Q66;
+package Q66;
 
 
 

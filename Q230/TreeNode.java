@@ -1,4 +1,4 @@
-package LeetCode.Q230;
+package Q230;
 
  /**
   * @author Ouma Natsumi

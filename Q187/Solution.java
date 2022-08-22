@@ -1,4 +1,4 @@
-package LeetCode.Q187;
+package Q187;
 
 import java.util.ArrayList;
 import java.util.HashMap;

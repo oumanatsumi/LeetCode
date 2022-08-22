@@ -1,4 +1,4 @@
-package LeetCode.Q260;
+package Q260;
 
 import java.net.Socket;
 import java.util.ArrayList;

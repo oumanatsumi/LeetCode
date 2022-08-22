@@ -1,6 +1,6 @@
-package LeetCode.Q237;
+package Q237;
 
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
     ListNode(int x) { val = x; }

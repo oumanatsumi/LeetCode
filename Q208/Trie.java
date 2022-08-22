@@ -1,4 +1,4 @@
-package LeetCode.Q208;
+package Q208;
 
 import java.util.TreeMap;
 
