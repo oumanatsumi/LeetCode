@@ -1,8 +1,4 @@
-package LeetCode.Q598;
-
-import com.sun.xml.internal.ws.policy.jaxws.SafePolicyReader;
-
-import java.net.Socket;
+package Q598;
 
 /**
  * @author Ouma Natsumi
