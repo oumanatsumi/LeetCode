@@ -1,4 +1,4 @@
-package LeetCode.Q859;
+package Q859;
 
 import java.net.Socket;
 import java.util.*;

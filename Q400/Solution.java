@@ -1,4 +1,4 @@
-package LeetCode.Q400;
+package Q400;
 
 import javax.xml.parsers.SAXParser;
 import java.util.ArrayList;

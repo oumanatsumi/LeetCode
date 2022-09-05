@@ -1,4 +1,4 @@
-package LeetCode.Q1518;
+package Q1518;
 
 public class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {

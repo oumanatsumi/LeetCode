@@ -1,4 +1,4 @@
-package LeetCode.Q520;
+package Q520;
 
 public class Solution {
     public boolean detectCapitalUse(String word) {

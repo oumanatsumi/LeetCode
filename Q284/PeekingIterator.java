@@ -1,4 +1,4 @@
-package LeetCode.Q284;
+package Q284;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package LeetCode.Q575;
+package Q575;
 
 import java.util.*;
 

@@ -1,9 +1,6 @@
-package LeetCode.Q352;
-
-import LeetCode.Q414.Solution;
+package Q352;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package LeetCode.Q852;
+package Q852;
 
 import java.util.List;
 

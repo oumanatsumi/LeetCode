@@ -1,4 +1,4 @@
-package LeetCode.Q419;
+package Q419;
 
 public class Solution {
     public int countBattleships(char[][] board) {

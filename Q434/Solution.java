@@ -1,4 +1,4 @@
-package LeetCode.Q434;
+package Q434;
 
 public class Solution {
     public int countSegments(String s) {

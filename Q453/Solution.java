@@ -1,4 +1,4 @@
-package LeetCode.Q453;
+package Q453;
 
 /**
  * @author Ouma Natsumi

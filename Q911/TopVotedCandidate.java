@@ -1,4 +1,4 @@
-package LeetCode.Q911;
+package Q911;
 
 import java.util.ArrayList;
 import java.util.HashMap;

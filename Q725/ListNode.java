@@ -1,6 +1,6 @@
-package LeetCode.Q725;
+package Q725;
 
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
     ListNode() {}

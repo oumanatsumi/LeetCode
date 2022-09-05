@@ -1,4 +1,4 @@
-package LeetCode.Q709;
+package Q709;
 
 public class Solution {
     public String toLowerCase(String s) {

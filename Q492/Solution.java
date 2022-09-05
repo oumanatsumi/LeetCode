@@ -1,4 +1,4 @@
-package LeetCode.Q492;
+package Q492;
 
 import java.util.ArrayList;
 import java.util.List;

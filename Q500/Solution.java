@@ -1,4 +1,4 @@
-package LeetCode.Q500;
+package Q500;
 
 
 import java.util.ArrayList;

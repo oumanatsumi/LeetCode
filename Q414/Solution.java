@@ -1,4 +1,4 @@
-package LeetCode.Q414;
+package Q414;
 
 import java.util.Arrays;
 import java.util.Collections;

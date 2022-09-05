@@ -1,4 +1,4 @@
-package LeetCode.Q807;
+package Q807;
 
 
 public class Solution {

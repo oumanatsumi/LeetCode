@@ -1,4 +1,4 @@
-package LeetCode.Q1816;
+package Q1816;
 
 public class Solution {
 

@@ -1,4 +1,4 @@
-package LeetCode.Q725;
+package Q725;
 
 import java.util.ArrayList;
 import java.util.List;

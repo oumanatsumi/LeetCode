@@ -1,4 +1,4 @@
-package LeetCode.Q405;
+package Q405;
 
 import java.beans.BeanInfo;
 import java.util.ArrayList;

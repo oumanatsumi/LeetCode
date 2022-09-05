@@ -1,4 +1,4 @@
-package LeetCode.Q517;
+package Q517;
 
 class Solution {
     public int findMinMoves(int[] machines) {

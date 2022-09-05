@@ -1,4 +1,4 @@
-package LeetCode.Q851;
+package Q851;
 
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package LeetCode.Q482;
+package Q482;
 
 public class Solution {
     public String licenseKeyFormatting(String s, int k) {

@@ -1,4 +1,4 @@
-package LeetCode.Q1436;
+package Q1436;
 
 import javax.swing.plaf.synth.SynthUI;
 import java.util.*;

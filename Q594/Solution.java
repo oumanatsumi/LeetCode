@@ -1,4 +1,4 @@
-package LeetCode.Q594;
+package Q594;
 
 import java.util.HashMap;
 import java.util.Map;

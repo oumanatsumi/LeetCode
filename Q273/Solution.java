@@ -1,4 +1,4 @@
-package LeetCode.Q273;
+package Q273;
 
 import java.util.ArrayList;
 import java.util.List;
