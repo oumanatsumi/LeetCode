@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20220908">
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20220913">
       <change afterPath="$PROJECT_DIR$/Q1598/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SPOffer53/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -60,7 +60,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Q526.Solution">
@@ -201,7 +201,7 @@
       <workItem from="1662688650659" duration="3800000" />
       <workItem from="1662714298504" duration="1348000" />
       <workItem from="1663034256644" duration="1340000" />
-      <workItem from="1663037596236" duration="1156000" />
+      <workItem from="1663037596236" duration="1567000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662631433710</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit20220913">
+      <created>1663041591228</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663041591228</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +287,8 @@
     <MESSAGE value="commit20220905" />
     <MESSAGE value="commit20220906" />
     <MESSAGE value="commit20220908" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20220908" />
+    <MESSAGE value="commit20220913" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20220913" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
