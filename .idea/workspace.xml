@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20220906">
-      <change afterPath="$PROJECT_DIR$/Q1592/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q47/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q526/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer58/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20220908">
+      <change afterPath="$PROJECT_DIR$/Q1598/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer53/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q46/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q46/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/learn/LeetCodeRush",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Q526.Solution">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
@@ -199,6 +197,11 @@
       <workItem from="1662427016336" duration="13837000" />
       <workItem from="1662521628404" duration="8409000" />
       <workItem from="1662608077674" duration="12620000" />
+      <workItem from="1662631414096" duration="194000" />
+      <workItem from="1662688650659" duration="3800000" />
+      <workItem from="1662714298504" duration="1348000" />
+      <workItem from="1663034256644" duration="1340000" />
+      <workItem from="1663037596236" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -235,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662455486535</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit20220908">
+      <created>1662631433710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662631433710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +279,8 @@
     <MESSAGE value="commit20220822" />
     <MESSAGE value="commit20220905" />
     <MESSAGE value="commit20220906" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20220906" />
+    <MESSAGE value="commit20220908" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20220908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -286,5 +297,9 @@
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
