@@ -12,32 +12,21 @@ class TreeNode {
 
 public class Solution {
     public boolean isSubStructure(TreeNode A, TreeNode B) {
-        String sba = midOrder("",A);
-        String sbb = midOrder("",B);
-
-        if(sba.length()==0 || sbb.length()==0){
-            return false;
+        if(A == null || B == null) return false;
+        if(A.val == B.val && isSubTree(A,B)){
+            return true;
+        }else {
+            return isSubStructure(A.left,B) || isSubStructure(A.right,B);
         }
-        System.out.println(sba);
-        System.out.println(sbb);
-        for(int i = 0;i<sba.length()-sbb.length()+1;i++){
-            if(sba.substring(i,i+sbb.length()).equals(sbb.toString())){
-                return true;
-            }
-        }
-        return false;
     }
 
-    private String midOrder(String s,TreeNode root){
-        if(root == null) {
-            s += " ";
-            return s;
+    private boolean isSubTree(TreeNode a,TreeNode b){
+        if(b == null) return true;
+        else if (a == null) return false;
+        else{
+            if(a.val != b.val) return false;
+            else return isSubTree(a.left,b.left) && isSubTree(a.right,b.right);
         }
-        s = midOrder(s, root.left);
-        s += root.val;
-        s += "_";
-        s = midOrder(s, root.right);
-        return s;
     }
 
     public static void main(String[] args) {

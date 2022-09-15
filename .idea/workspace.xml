@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20220913">
+      <change afterPath="$PROJECT_DIR$/SPOffer27/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SPOffer26/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer26/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q46/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q46/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Q655/Solution.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,31 +50,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Codes\LeetCodeRush" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/learn/LeetCodeRush&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.SPOffer26.Solution">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Q496.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1592.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1592.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q1592.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q526.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q526.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q526.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC_DoubleWeek86_3.Solution" />
+    <configuration name="SPOffer24.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer24.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QC_DoubleWeek86_3.*" />
+          <option name="PATTERN" value="SPOffer24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,46 +133,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6168.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q6168.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6169.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q6169.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6178.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q6178.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SPOffer26.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SPOffer26.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
@@ -157,13 +146,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q670.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q670.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SPOffer26.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Q526.Solution" />
+        <item itemvalue="Application.Q1592.Solution" />
+        <item itemvalue="Application.SPOffer24.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -196,22 +198,15 @@
       <workItem from="1637549777227" duration="10422000" />
       <workItem from="1637719553113" duration="4304000" />
       <workItem from="1661147255139" duration="3631000" />
-      <workItem from="1661174528776" duration="1020000" />
-      <workItem from="1661235578998" duration="3092000" />
-      <workItem from="1661354051946" duration="5952000" />
-      <workItem from="1661410491234" duration="6915000" />
-      <workItem from="1661478224196" duration="7935000" />
-      <workItem from="1661566969464" duration="10232000" />
-      <workItem from="1661825557618" duration="10006000" />
-      <workItem from="1661873474046" duration="1319000" />
-      <workItem from="1661910696218" duration="2585000" />
-      <workItem from="1662017942900" duration="3160000" />
-      <workItem from="1662042815767" duration="894000" />
-      <workItem from="1662084059653" duration="2567000" />
-      <workItem from="1662212726527" duration="7060000" />
-      <workItem from="1662258742621" duration="9877000" />
-      <workItem from="1662861178840" duration="7188000" />
-      <workItem from="1662941992256" duration="12897000" />
+      <workItem from="1662427016336" duration="13837000" />
+      <workItem from="1662521628404" duration="8409000" />
+      <workItem from="1662608077674" duration="12620000" />
+      <workItem from="1662631414096" duration="194000" />
+      <workItem from="1662688650659" duration="3800000" />
+      <workItem from="1662714298504" duration="1348000" />
+      <workItem from="1663034256644" duration="1340000" />
+      <workItem from="1663037596236" duration="1760000" />
+      <workItem from="1663124653222" duration="9669000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -234,40 +229,40 @@
       <option name="project" value="LOCAL" />
       <updated>1661148497312</updated>
     </task>
-    <task id="LOCAL-00004" summary="commit20220822">
-      <created>1661174772094</created>
+    <task id="LOCAL-00004" summary="commit20220905">
+      <created>1662361103531</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1661174772094</updated>
+      <updated>1662361103531</updated>
     </task>
-    <task id="LOCAL-00005" summary="commit20220822">
-      <created>1661396291641</created>
+    <task id="LOCAL-00005" summary="commit20220906">
+      <created>1662455486535</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1661396291641</updated>
+      <updated>1662455486535</updated>
     </task>
-    <task id="LOCAL-00006" summary="commit20220826">
-      <created>1661480121273</created>
+    <task id="LOCAL-00006" summary="commit20220908">
+      <created>1662631433710</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1661480121273</updated>
+      <updated>1662631433710</updated>
     </task>
-    <task id="LOCAL-00007" summary="commit20220830">
-      <created>1661874724426</created>
+    <task id="LOCAL-00007" summary="commit20220913">
+      <created>1663041591228</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1661874724426</updated>
+      <updated>1663041591228</updated>
     </task>
-    <task id="LOCAL-00008" summary="commit20220901">
-      <created>1662033651628</created>
+    <task id="LOCAL-00008" summary="commit20220913">
+      <created>1663041994100</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1662033651628</updated>
+      <updated>1663041994100</updated>
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
@@ -280,7 +275,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -289,16 +296,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test一哈" />
     <MESSAGE value="commit20220822" />
-    <MESSAGE value="commit20220826" />
-    <MESSAGE value="commit20220830" />
-    <MESSAGE value="commit20220901" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20220901" />
+    <MESSAGE value="commit20220905" />
+    <MESSAGE value="commit20220906" />
+    <MESSAGE value="commit20220908" />
+    <MESSAGE value="commit20220913" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20220913" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SPOffer24/Solution.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
