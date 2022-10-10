@@ -2,18 +2,9 @@ package SPOffer14_1;
 
 public class Solution {
     public int cuttingRope(int n) {
-        if(n == 2 ) return 1;
-        if(n == 3 ) return 2;
-        int cnt = (int) Math.sqrt((double) n);
-        int base = n / cnt;
-        int addCnt = n - (cnt * base);
-        int res = 1;
-        for (int i = 0; i < cnt - addCnt; i++) {
-            res = res * base;
-        }
-        for (int i = 0; i < addCnt; i++) {
-            res = res * (base+1);
-        }
-        return res;
+        if(n <= 3) return n-1;
+        if(n % 3 == 0) return (int) Math.pow(3,n /3);
+        else if(n % 3 == 1) return (int) Math.pow(3, n /3 -1) *4;
+        else return (int) Math.pow(3,n/3) *2;
     }
 }

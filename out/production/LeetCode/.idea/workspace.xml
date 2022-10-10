@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SPOffer11/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer12/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer15/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer17/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer48/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer14_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer21/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer22/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer29/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPOffer14_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer14_1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -95,24 +94,11 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6189.Solution" />
+      <option name="MAIN_CLASS_NAME" value="SPOffer29.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q6189.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6190.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q6190.*" />
+          <option name="PATTERN" value="SPOffer29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,6 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer14_2.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SPOffer14_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SPOffer12.Solution" />
       <module name="LeetCode" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +221,10 @@
       <workItem from="1664846364203" duration="8115000" />
       <workItem from="1664950720394" duration="1188000" />
       <workItem from="1665041821265" duration="6949000" />
-      <workItem from="1665107669199" duration="4836000" />
+      <workItem from="1665107669199" duration="10552000" />
+      <workItem from="1665198290026" duration="656000" />
+      <workItem from="1665236018671" duration="7773000" />
+      <workItem from="1665302419093" duration="5736000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -294,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664811009277</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="221007">
+      <created>1665198866406</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665198866406</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,18 +328,10 @@
     <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20220925" />
     <MESSAGE value="221003,dp专题强化" />
-    <option name="LAST_COMMIT_MESSAGE" value="221003,dp专题强化" />
+    <MESSAGE value="221007" />
+    <option name="LAST_COMMIT_MESSAGE" value="221007" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SPOffer12/Solution.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
