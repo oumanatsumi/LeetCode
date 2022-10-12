@@ -1,4 +1,4 @@
-package QC_Week311_2;
+package Q2414;
 
 public class Solution {
     public int longestContinuousSubstring(String s) {

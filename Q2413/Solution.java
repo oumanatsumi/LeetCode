@@ -1,4 +1,4 @@
-package QC_Week311_1;
+package Q2413;
 
 public class Solution {
     public int smallestEvenMultiple(int n) {
