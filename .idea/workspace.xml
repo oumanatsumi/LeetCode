@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20221014">
-      <change afterPath="$PROJECT_DIR$/SPOffer36/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20221018">
+      <change afterPath="$PROJECT_DIR$/SPOffer37/Codec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer35/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer35/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +212,7 @@
       <workItem from="1665557128832" duration="5061000" />
       <workItem from="1665627082220" duration="14224000" />
       <workItem from="1665731972544" duration="2363000" />
+      <workItem from="1666087475316" duration="13530000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -277,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665568448787</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit20221018">
+      <created>1666087647023</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666087647023</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +308,8 @@
     <MESSAGE value="commit20220830" />
     <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20221012" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20221012" />
+    <MESSAGE value="commit20221018" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20221018" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
