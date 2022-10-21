@@ -17,6 +17,7 @@ public class Codec {
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
+        if(root == null) return "";
         Deque<TreeNode> dq = new LinkedList<>();
         dq.offerLast(root);
         String res = "";
@@ -44,8 +45,39 @@ public class Codec {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
+        if(data.equals("")) return null;
         String[] datas= data.split(",");
-        Deque<TreeNode> dq = new LinkedList<>();
-
+        int[] nullCnt = new int[datas.length];
+        nullCnt[0] = 0;
+        for (int i = 1; i < nullCnt.length; i++) {
+            if(datas[i].equals("null")) nullCnt[i] = nullCnt[i-1]+1;
+            else nullCnt[i] = nullCnt[i-1];
+        }
+        TreeNode[] nodes = new TreeNode[datas.length];
+        for (int i = 0; i < datas.length; i++) {
+            if(datas[i].equals("null")){
+                nodes[i] = null;
+            }else {
+                nodes[i] = new TreeNode(Integer.parseInt(datas[i]));
+            }
+        }
+        Deque<Integer> dq = new LinkedList<>();
+        dq.offerLast(0);
+        while (!dq.isEmpty()){
+            int index = dq.pop();
+            if(!datas[index].equals("null")){
+                int leftIndex = 2*(index-nullCnt[index])+1;
+                if(leftIndex < datas.length){
+                    dq.offerLast(leftIndex);
+                    nodes[index].left = nodes[leftIndex];
+                }
+                int rightIndex = 2*(index-nullCnt[index])+2;
+                if(rightIndex < datas.length){
+                    dq.offerLast(rightIndex);
+                    nodes[index].right = nodes[rightIndex];
+                }
+            }
+        }
+        return nodes[0];
     }
 }
