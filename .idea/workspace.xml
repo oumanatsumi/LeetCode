@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20221021">
-      <change afterPath="$PROJECT_DIR$/Q1906/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20221025">
+      <change afterPath="$PROJECT_DIR$/Q862/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer40/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +220,8 @@
       <workItem from="1666087475316" duration="13545000" />
       <workItem from="1666177350614" duration="24939000" />
       <workItem from="1666594828157" duration="793000" />
-      <workItem from="1666684670843" duration="2314000" />
+      <workItem from="1666684670843" duration="2476000" />
+      <workItem from="1666767799233" duration="7750000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -301,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666342598960</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit20221025">
+      <created>1666691225714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666691225714</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +341,8 @@
     <MESSAGE value="commit20221018" />
     <MESSAGE value="commit20221019" />
     <MESSAGE value="commit20221021" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20221021" />
+    <MESSAGE value="commit20221025" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20221025" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
