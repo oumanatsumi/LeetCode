@@ -2,7 +2,6 @@ package QC_W317_4;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 class TreeNode {
     int val;
@@ -24,43 +23,37 @@ class TreeNode {
 }
 
 public class Solution {
-    int[] nodeMaxDepth= new int[100001];
+    int[] nodeHeight = new int[100001];
     TreeNode[] nodes = new TreeNode[100001];
+    int[] res = new int[100001];
     public int[] treeQueries(TreeNode root, int[] queries) {
         int[] ans = new int[queries.length];
-        getDepth(root,new ArrayList<>(),0);
+        getDepth(root);
+        dfs(root,-1,0);
         for (int i = 0; i < queries.length; i++) {
-            List<Integer> denies = new ArrayList<>();
-            dfs(nodes[queries[i]],denies);
-            for (int j = 0; j < nodeMaxDepth.length; j++) {
-                if(denies.contains(j)) continue;
-                ans[i] = Math.max(ans[i],nodeMaxDepth[j]);
-            }
+            ans[i] = res[queries[i]];
         }
         return ans;
     }
 
-    private void getDepth(TreeNode root, List<Integer> list, int curDepth){
+    private int getDepth(TreeNode root){
         if(root == null){
-            for(int i :list){
-                nodeMaxDepth[i] = Math.max(nodeMaxDepth[i],curDepth-1);
-            }
-            return;
+            return 0;
         }
         nodes[root.val] = root;
-        list.add(root.val);
-        getDepth(root.left,list, curDepth+1);
-        getDepth(root.right,list, curDepth+1);
-        list.remove(list.size()-1);
+        int h = 1 + Math.max(getDepth(root.left),getDepth(root.right));
+        nodeHeight[root.val] = h;
+        return h;
     }
     
-    private void dfs(TreeNode root,List<Integer> list){
+    private void dfs(TreeNode root,int depth,int restH){
         if(root == null){
             return;
         }
-        list.add(root.val);
-        dfs(root.left,list);
-        dfs(root.right,list);
+        depth++;
+        res[root.val] = restH;
+        dfs(root.left, depth, Math.max(restH, root.right==null? depth:depth+nodeHeight[root.right.val]));
+        dfs(root.right, depth, Math.max(restH, root.left==null? depth:depth+nodeHeight[root.left.val]));
     }
 
     public static void main(String[] args) {
@@ -77,7 +70,7 @@ public class Solution {
         nodes[2].right = nodes[6];
         nodes[9].left = nodes[3];
         nodes[9].right = nodes[7];
-        s.treeQueries(nodes[5], new int[]{8});
+        s.treeQueries(nodes[5], new int[]{3,2,4,8});
     }
 
 }
