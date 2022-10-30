@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q430/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q430/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_1/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_2/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_3/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_4/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SPOffer35/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SPOffer35/Solution.class" afterDir="false" />
-    </list>
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +174,7 @@
       <workItem from="1665886285189" duration="7020000" />
       <workItem from="1665909114820" duration="5356000" />
       <workItem from="1667043051807" duration="6491000" />
-      <workItem from="1667092606529" duration="7568000" />
+      <workItem from="1667092606529" duration="8165000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -272,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667115571337</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="22103011">
+      <created>1667134236976</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667134236976</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +294,8 @@
     <MESSAGE value="221003,dp专题强化" />
     <MESSAGE value="221007" />
     <MESSAGE value="221030" />
-    <option name="LAST_COMMIT_MESSAGE" value="221030" />
+    <MESSAGE value="22103011" />
+    <option name="LAST_COMMIT_MESSAGE" value="22103011" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
