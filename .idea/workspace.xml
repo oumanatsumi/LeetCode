@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/QC_W317_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_W317_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_W317_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_W317_4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q907/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q907/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q430/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q430/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_3/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_316_4/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SPOffer35/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SPOffer35/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +186,7 @@
       <workItem from="1665886285189" duration="7020000" />
       <workItem from="1665909114820" duration="5356000" />
       <workItem from="1667043051807" duration="6491000" />
-      <workItem from="1667092606529" duration="6342000" />
+      <workItem from="1667092606529" duration="7568000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -261,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665198866406</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="221030">
+      <created>1667115571337</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667115571337</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,7 +298,8 @@
     <MESSAGE value="commit20220925" />
     <MESSAGE value="221003,dp专题强化" />
     <MESSAGE value="221007" />
-    <option name="LAST_COMMIT_MESSAGE" value="221007" />
+    <MESSAGE value="221030" />
+    <option name="LAST_COMMIT_MESSAGE" value="221030" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
