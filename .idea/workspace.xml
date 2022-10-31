@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202210301">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_W317_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QC_W317_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1906/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1906/Solution.class" afterDir="false" />
-    </list>
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202210302" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -320,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667116253454</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit202210302">
+      <created>1667122642388</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667122642388</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +351,8 @@
     <MESSAGE value="commit20221021" />
     <MESSAGE value="commit20221025" />
     <MESSAGE value="commit202210301" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit202210301" />
+    <MESSAGE value="commit202210302" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit202210302" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
