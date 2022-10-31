@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202210301">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12__Changes_.xml" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202210302">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_W317_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QC_W317_4/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPOffer40/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer40/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,6 +219,7 @@
       <workItem from="1666767799233" duration="7750000" />
       <workItem from="1666837203244" duration="13480000" />
       <workItem from="1666940116487" duration="3240000" />
+      <workItem from="1667195415778" duration="5465000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -319,7 +319,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667116253454</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit202210302">
+      <created>1667122642388</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667122642388</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit202210302">
+      <created>1667195487750</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667195487750</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,15 +362,21 @@
     <MESSAGE value="commit20221021" />
     <MESSAGE value="commit20221025" />
     <MESSAGE value="commit202210301" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit202210301" />
+    <MESSAGE value="commit202210302" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit202210302" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/QC_W317_4/Solution.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="1" />
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SPOffer40/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
