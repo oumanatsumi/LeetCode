@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202210302">
-      <change afterPath="$PROJECT_DIR$/Q784/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q912/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q912/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_W317_4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/QC_W317_4/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SPOffer40/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SPOffer40/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$stu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$stu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/QC_W317_4/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/QC_W317_4/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SPOffer7/Solution$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SPOffer7/Solution$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SPOffer7/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SPOffer7/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +56,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -221,6 +227,7 @@
       <workItem from="1666837203244" duration="13480000" />
       <workItem from="1666940116487" duration="3240000" />
       <workItem from="1667195415778" duration="9321000" />
+      <workItem from="1667396863358" duration="2971000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -373,11 +380,6 @@
           <url>file://$PROJECT_DIR$/QC_W317_4/Solution.java</url>
           <line>32</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Q784/Solution.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
