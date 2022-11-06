@@ -1,4 +1,4 @@
-package QC_W317_1;
+package Q2445;
 
 public class Solution {
     public int averageValue(int[] nums) {
