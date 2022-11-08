@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1678/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6229/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6230/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6231/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_28_19_15_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_28_19_15__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_W317_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2445/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_W317_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2456/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_W317_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2457/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_W317_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2458/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_25_22_12__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_28_19_15_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_28_19_15__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +64,7 @@
       <recent name="QC_W318_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.LeetCode.Q496.Solution">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -173,8 +158,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.SPOffer40.Solution" />
         <item itemvalue="Application.Solution" />
@@ -240,7 +223,8 @@
       <workItem from="1666940116487" duration="3240000" />
       <workItem from="1667195415778" duration="9321000" />
       <workItem from="1667396863358" duration="3188000" />
-      <workItem from="1667698663299" duration="11512000" />
+      <workItem from="1667698663299" duration="11542000" />
+      <workItem from="1667917706205" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -361,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667401992537</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit2022116">
+      <created>1667750538666</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667750538666</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +382,8 @@
     <MESSAGE value="commit20221025" />
     <MESSAGE value="commit202210301" />
     <MESSAGE value="commit202210302" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit202210302" />
+    <MESSAGE value="commit2022116" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2022116" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
