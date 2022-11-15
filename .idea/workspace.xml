@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Q1704/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q764/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q816/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer45/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hyj" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -225,6 +234,10 @@
       <workItem from="1667396863358" duration="3188000" />
       <workItem from="1667698663299" duration="11542000" />
       <workItem from="1667917706205" duration="17000" />
+      <workItem from="1667918572818" duration="3602000" />
+      <workItem from="1667960748140" duration="8058000" />
+      <workItem from="1668170702738" duration="1857000" />
+      <workItem from="1668305795844" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -352,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667750538666</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit20221108">
+      <created>1667918649242</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667918649242</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +403,8 @@
     <MESSAGE value="commit202210301" />
     <MESSAGE value="commit202210302" />
     <MESSAGE value="commit2022116" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2022116" />
+    <MESSAGE value="commit20221108" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20221108" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
