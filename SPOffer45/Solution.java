@@ -12,13 +12,14 @@ public class Solution {
         Arrays.sort(ns, new Comparator<String>() {
             @Override
             public int compare(String o1, String o2) {
-                int s1= o1.length(),s2 = o2.length();
-                for(int i = 0;i<Math.min(s1,s2);i++){
-                    s1
-                }
-                return 0;
+                return (int) (Long.valueOf(o1+o2) - Long.valueOf(o2+o1));
             }
-        }
+        });
+        return String.join("",ns);
+    }
 
+    public static void main(String[] args) {
+        Solution s= new Solution();
+        System.out.println(s.minNumber(new int[]{3,30,34,301,305}));
     }
 }

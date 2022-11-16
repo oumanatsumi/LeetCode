@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/QC_W318_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_W318_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_W318_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_W318_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_28_19_15_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_10_28_19_15__Changes_.xml" beforeDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20221101">
+      <change afterPath="$PROJECT_DIR$/Q1668/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1710/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPOffer45/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer45/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="QC_W318_4" />
-      <recent name="QC_W318_3" />
-      <recent name="QC_W318_2" />
-      <recent name="QC_W318_1" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.SPOffer45.Solution">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -123,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q784.Solution" />
+    <configuration name="SPOffer45.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer45.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q784.*" />
+          <option name="PATTERN" value="SPOffer45.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC_W318_2.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q784.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QC_W318_2.*" />
+          <option name="PATTERN" value="Q784.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,7 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.SPOffer45.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.SPOffer40.Solution" />
         <item itemvalue="Application.Solution" />
@@ -230,8 +222,8 @@
       <workItem from="1666837203244" duration="13480000" />
       <workItem from="1666940116487" duration="3240000" />
       <workItem from="1667195415778" duration="9321000" />
-      <workItem from="1667396863358" duration="3188000" />
-      <workItem from="1667698663299" duration="1465000" />
+      <workItem from="1667396863358" duration="2971000" />
+      <workItem from="1668508317048" duration="1672000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -345,14 +337,7 @@
       <option name="project" value="LOCAL" />
       <updated>1667195487750</updated>
     </task>
-    <task id="LOCAL-00017" summary="commit202210302">
-      <created>1667401992537</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1667401992537</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,6 +376,11 @@
           <url>file://$PROJECT_DIR$/QC_W317_4/Solution.java</url>
           <line>32</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SPOffer45/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
