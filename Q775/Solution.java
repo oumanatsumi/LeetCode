@@ -1,62 +1,23 @@
-package Q912;
+package Q775;
 
 import java.util.Arrays;
 
 public class Solution {
+    int totalReverseCnt = 0;
 
-    /**
-     *  快速排序
-     */
-//    public int[] sortArray(int[] nums) {
-//        partition(nums,0,nums.length-1);
-//        return nums;
-//    }
-//
-    private void partition(int[] array, int l, int r){
-        if(l >= r) return;
-        int cur = array[l];
-        int i = l,j = r;
-        while (i < j){
-            while (i < j && array[j] >= cur){
-                j--;
-            }
-            if(i < j){
-                array[i] = array[j];
-                i++;
-            }
-            while (i<j && array[i] <= cur){
-                i++;
-            }
-            if(i<j){
-                array[j] = array[i];
-                j--;
-            }
-        }
-        array[i] = cur;
-        partition(array,l,i-1);
-        partition(array,i+1,r);
-    }
-
-    /**
-     * 基数排序
-     */
-//    public int[] sortArray(int[] nums) {
-//
-//    }
-
-    /**
-     * 归并排序
-     */
-
-    public int[] sortArray(int[] nums) {
+    public boolean isIdealPermutation(int[] nums) {
         int[] arrayCopy = Arrays.copyOf(nums, nums.length);
+        for (int i = 0; i < nums.length-1; i++) {
+            if(nums[i] > nums[i+1]) totalReverseCnt--;
+        }
+
         mergeSort(nums, arrayCopy, 0, nums.length - 1);
-        return nums;
+        return totalReverseCnt == 0;
     }
 
     private void mergeSort(int[] array, int[] arrayCopy, int l, int r) {
         if (l < r) {
-            int mid = (l + r) >>> 1;
+            int mid = l + (r - l) >> 1;
             // 递归左边
             mergeSort(array, arrayCopy, l, mid);
             // 递归右边
@@ -75,6 +36,7 @@ public class Solution {
                 cur++;
             } else {
                 arrayCopy[cur] = array[rPos];
+                totalReverseCnt += (mid - lPos + 1);
                 rPos++;
                 cur++;
             }
@@ -93,12 +55,9 @@ public class Solution {
                 cur++;
             }
         }
-
         // 复制回原数组
         for (int i = l; i <= r; i++) {
             array[i] = arrayCopy[i];
         }
     }
-
-
 }
