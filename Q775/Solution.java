@@ -17,7 +17,7 @@ public class Solution {
 
     private void mergeSort(int[] array, int[] arrayCopy, int l, int r) {
         if (l < r) {
-            int mid = l + (r - l) >> 1;
+            int mid = (l + r) >>> 1;
             // 递归左边
             mergeSort(array, arrayCopy, l, mid);
             // 递归右边
@@ -59,5 +59,10 @@ public class Solution {
         for (int i = l; i <= r; i++) {
             array[i] = arrayCopy[i];
         }
+    }
+
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        s.isIdealPermutation(new int[]{2,5,3,1,4,0,2});
     }
 }
