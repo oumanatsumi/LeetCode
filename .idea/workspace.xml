@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q808/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q878/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -280,7 +280,8 @@
       <workItem from="1668684247250" duration="4529000" />
       <workItem from="1668911064847" duration="14655000" />
       <workItem from="1668947346534" duration="8074000" />
-      <workItem from="1669040578805" duration="1237000" />
+      <workItem from="1669040578805" duration="1288000" />
+      <workItem from="1669120984302" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -422,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668955869507</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="commit20221121">
+      <created>1669041998238</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669041998238</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +463,8 @@
     <MESSAGE value="commit2022116" />
     <MESSAGE value="commit20221108" />
     <MESSAGE value="commit20221120" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20221120" />
+    <MESSAGE value="commit20221121" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20221121" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
