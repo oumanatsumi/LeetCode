@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1732/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6241/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6242/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6243/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q799/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_DoubleWeek92_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_DoubleWeek92_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_DoubleWeek92_3/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer51/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer51/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +66,14 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="QC_DoubleWeek92_3" />
+      <recent name="QC_DoubleWeek92_2" />
       <recent name="QC_WEEK320_4" />
       <recent name="QC_WEEK320_3" />
       <recent name="QC_WEEK320_2" />
-      <recent name="QC_W318_4" />
-      <recent name="QC_W318_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -110,19 +106,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SPOffer40.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q784.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q784.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6243.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC_DoubleWeek92_1.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q6243.*" />
+          <option name="PATTERN" value="QC_DoubleWeek92_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +268,8 @@
       <workItem from="1668305795844" duration="536000" />
       <workItem from="1668684247250" duration="4529000" />
       <workItem from="1668911064847" duration="14655000" />
-      <workItem from="1668947346534" duration="1301000" />
+      <workItem from="1668947346534" duration="8074000" />
+      <workItem from="1669040578805" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -420,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667918649242</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit20221120">
+      <created>1668955869507</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668955869507</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +443,8 @@
     <MESSAGE value="commit202210302" />
     <MESSAGE value="commit2022116" />
     <MESSAGE value="commit20221108" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20221108" />
+    <MESSAGE value="commit20221120" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20221120" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
@@ -463,6 +455,7 @@
     <watches-manager>
       <configuration name="Application">
         <watch expression="treeNodes[3].linked" />
+        <watch expression="arr_copy" />
       </configuration>
     </watches-manager>
   </component>
