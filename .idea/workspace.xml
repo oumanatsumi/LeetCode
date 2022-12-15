@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1827/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_323_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_323_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_323_3/Allocator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QC_323_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QC_323_2/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <recent name="QC_321_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Allocator">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Allocator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QC_323_3.Allocator" />
       <module name="LeetCode" />
@@ -182,8 +178,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Allocator" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Allocator" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
@@ -265,7 +261,8 @@
       <workItem from="1670071728136" duration="2211000" />
       <workItem from="1670120958182" duration="4146000" />
       <workItem from="1670295984293" duration="3364000" />
-      <workItem from="1670724951851" duration="7735000" />
+      <workItem from="1670724951851" duration="8069000" />
+      <workItem from="1671009034116" duration="3459000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -435,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670296088681</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="commit20221211">
+      <created>1670771936286</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670771936286</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +476,8 @@
     <MESSAGE value="commit202211272" />
     <MESSAGE value="commit2022123" />
     <MESSAGE value="commit2022124" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2022124" />
+    <MESSAGE value="commit20221211" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20221211" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,6 +491,11 @@
           <url>file://$PROJECT_DIR$/QC_323_3/Allocator.java</url>
           <line>59</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/QC_323_2/Solution.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
