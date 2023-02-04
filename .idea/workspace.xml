@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1669/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1798/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2319/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2325/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -335,7 +337,10 @@
       <workItem from="1674826564124" duration="3288000" />
       <workItem from="1674913800741" duration="6201000" />
       <workItem from="1674958729690" duration="8008000" />
-      <workItem from="1675068663490" duration="2582000" />
+      <workItem from="1675068663490" duration="2864000" />
+      <workItem from="1675163906044" duration="1942000" />
+      <workItem from="1675262183297" duration="4955000" />
+      <workItem from="1675517090520" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -533,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674978570891</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="commit20230129">
+      <created>1675093928810</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1675093928811</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
