@@ -1,9 +1,27 @@
 package Q1604;
 
 import java.util.*;
+import java.util.jar.JarEntry;
 
 public class Solution {
     public List<String> alertNames(String[] keyName, String[] keyTime) {
+//        Set<String> nameSet = new HashSet<>();
+//        for(String name : keyName){
+//            nameSet.add(name);
+//        }
+//        int n = nameSet.size();
+//        String[] names = new String[n];
+//        int cnt = 0;
+//        for(String name: nameSet){
+//            names[cnt++] = name;
+//        }
+//        int[] firstTime = new int[n];
+//        int[] secondTime = new int[n];
+//        Map<Integer, Integer> map = new HashMap<>();
+//        for (int i = 0; i < keyName.length; i++) {
+//
+//        }
+
         Map<String,List<Integer>> map = new HashMap<>();
         for (int i = 0; i < keyName.length; i++) {
             if(!map.containsKey(keyName[i])){
@@ -15,7 +33,6 @@ public class Solution {
         for(String name: map.keySet()){
             List<Integer> times = map.get(name);
             if(times.size() < 3) continue;
-            Collections.sort(times);
             for (int i = 2; i < times.size(); i++) {
                 if(times.get(i) - times.get(i-2) >= 0 && times.get(i) - times.get(i-2) <= 60){
                     res.add(name);
@@ -30,5 +47,4 @@ public class Solution {
     int changeToMinutes(String time){
         return Integer.parseInt(time.substring(0,2))*60 + Integer.parseInt(time.substring(3,5));
     }
-
 }
