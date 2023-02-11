@@ -4,39 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20230207">
-      <change afterPath="$PROJECT_DIR$/Q1223/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1797/AuthenticationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2439/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Q2335/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q102/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q102/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q102/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q102/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q230/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q230/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q237/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q237/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2415/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2415/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2415/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2415/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$stu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$stu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q622/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q622/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q622/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q622/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q652/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q652/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q652/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q652/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q654/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q654/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q654/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q654/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q655/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q655/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q655/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q655/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q687/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q687/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q687/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q687/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q725/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q725/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,27 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="QC330_3" />
+      <recent name="QC330_2" />
+      <recent name="QC330_1" />
       <recent name="QC_327_3" />
       <recent name="QC_327_2" />
-      <recent name="QC_323_3" />
-      <recent name="QC_323_2" />
-      <recent name="QC_322_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2439.Solution">
+  <component name="RunManager" selected="Application.LeetCode.Q496.Solution">
     <configuration name="Allocator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QC_323_3.Allocator" />
       <module name="LeetCode" />
@@ -121,19 +92,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Q496.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q2439.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2439.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q2439.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +125,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC330_2.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QC330_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q6284.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Q6284.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q6338.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q6338.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q6339.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q6339.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,7 +231,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2439.Solution" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Allocator" />
@@ -336,8 +333,12 @@
       <workItem from="1674574435893" duration="770000" />
       <workItem from="1674704318091" duration="1717000" />
       <workItem from="1674826564124" duration="3288000" />
-      <workItem from="1674913800741" duration="5678000" />
-      <workItem from="1675838573116" duration="8066000" />
+      <workItem from="1674913800741" duration="6201000" />
+      <workItem from="1674958729690" duration="8008000" />
+      <workItem from="1675068663490" duration="2864000" />
+      <workItem from="1675163906044" duration="1942000" />
+      <workItem from="1675262183297" duration="4955000" />
+      <workItem from="1675517090520" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -521,7 +522,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671069886458</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="commit20230128">
+      <created>1674921260837</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1674921260837</updated>
+    </task>
+    <task id="LOCAL-00028" summary="commit20230129">
+      <created>1674978570891</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1674978570891</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit20230129">
+      <created>1675093928810</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1675093928811</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +582,9 @@
     <MESSAGE value="commit2022124" />
     <MESSAGE value="commit20221211" />
     <MESSAGE value="commit20221214" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20221214" />
+    <MESSAGE value="commit20230128" />
+    <MESSAGE value="commit20230129" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20230129" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
