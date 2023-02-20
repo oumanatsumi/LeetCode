@@ -78,13 +78,13 @@ public class Solution {
 //       return ans;
 //    }
 
-    public int[][] substringXorQueries(String s, int[][] queries){
-        s
-    }
+//    public int[][] substringXorQueries(String s, int[][] queries){
+//        s
+//    }
 
-    public static void main(String[] args) {
-        Solution s = new Solution();
-        System.out.println(Integer.bitCount(0));
-        s.substringXorQueries("111010110", new int[][]{{3,3},{9,9}});
-    }
+//    public static void main(String[] args) {
+//        Solution s = new Solution();
+//        System.out.println(Integer.bitCount(0));
+//        s.substringXorQueries("111010110", new int[][]{{3,3},{9,9}});
+//    }
 }
