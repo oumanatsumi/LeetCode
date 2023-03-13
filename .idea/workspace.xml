@@ -5,172 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1247/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1487/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC334_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC334_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC334_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC336_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC336_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC336_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QInterview_1705/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer20/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2383/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2363/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2363/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Q229/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Q229/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Q412/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Q412/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q102/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q102/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q102/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q102/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1143/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1143/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1218/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1218/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1331/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1331/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1436/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1436/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1455/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1455/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1460/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1460/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1464/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1464/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1475/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1475/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1491/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1491/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1502/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1502/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1518/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1518/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1523/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1523/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1582/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1582/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1592/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1592/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1598/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1598/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1608/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1608/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1619/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1619/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1646/Q1646.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1646/Q1646.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q166/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q166/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1779/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1779/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1790/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1790/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1816/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1816/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1822/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1822/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q187/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q187/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1906/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1906/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q191/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q191/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q198/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q198/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q208/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q208/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q211/WordDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q211/WordDictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q223/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q223/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q230/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q230/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q230/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q230/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q237/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q237/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q237/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q237/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2413/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2413/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2414/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2414/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2415/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2415/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2415/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2415/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2416/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q2416/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q260/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q260/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q268/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q268/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q273/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q273/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q282/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q282/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q284/PeekingIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q284/PeekingIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q29/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q29/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q318/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q318/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q319/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q319/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q326/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q326/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q338/Q338.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q338/Q338.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q35/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q35/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q352/SummaryRanges.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q352/SummaryRanges.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q36/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q36/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q367/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q367/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q371/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q371/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q38/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q38/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q383/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q383/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q384/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q384/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q391/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q391/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q397/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q397/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q4/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q400/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q400/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q405/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q405/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q414/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q414/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q419/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q419/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q423/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q423/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q430/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q430/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q434/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q434/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q441/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q441/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q453/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q453/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q46/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q46/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q47/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q47/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q476/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q476/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q482/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q482/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q492/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q492/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q496/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q496/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q5/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q5/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q500/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q500/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q503/Q503.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q503/Q503.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q517/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q517/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q520/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q520/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q526/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q526/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q559/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q559/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q559/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q559/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q563/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q575/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q575/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q58/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q58/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q583/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q583/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q589/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q589/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q589/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q589/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q592/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q592/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q594/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q594/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q598/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q598/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6167/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6167/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6168/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6168/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6169/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6169/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6176/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6176/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6177/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6177/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$stu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$stu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6189/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6189/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6190/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6190/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6204/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6204/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6205/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6205/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6207/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6207/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6214/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6214/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6219/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6219/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q622/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q622/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q622/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q622/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6224/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q6224/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q646/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q646/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q652/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q652/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q652/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q652/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q654/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q654/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q654/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q654/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q655/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q655/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q655/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q655/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q658/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q658/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q66/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q66/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q670/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q670/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q672/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q672/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q687/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q687/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q687/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q687/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q70/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q70/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q709/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q709/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q720/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q720/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q725/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q725/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q725/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q725/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q73/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q73/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q807/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q807/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q828/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q828/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q851/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q851/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q852/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q852/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q859/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q859/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q862/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q862/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q869/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q869/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q88/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q88/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q907/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q907/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q91/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q91/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q911/TopVotedCandidate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q911/TopVotedCandidate.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -544,7 +380,8 @@
       <workItem from="1676898690336" duration="684000" />
       <workItem from="1678542463993" duration="2852000" />
       <workItem from="1678588094750" duration="3578000" />
-      <workItem from="1678602444199" duration="595000" />
+      <workItem from="1678602444199" duration="614000" />
+      <workItem from="1678715471247" duration="2597000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -763,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676251597439</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="commit20230212">
+      <created>1678632582211</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1678632582211</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
