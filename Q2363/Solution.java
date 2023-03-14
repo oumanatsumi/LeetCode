@@ -1,9 +1,10 @@
 package Q2363;
 
 import java.util.*;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Solution {
+class Solution {
     public List<List<Integer>> mergeSimilarItems(int[][] items1, int[][] items2) {
         List<List<Integer>> res = new ArrayList<>();
         int[] map = new int[1001];
@@ -15,7 +16,7 @@ public class Solution {
         }
         for (int i = 0; i < map.length; i++) {
             if(map[i] != 0){
-                res.add(IntStream.of(new int[]{i,map[i]}).boxed().toList());
+                res.add(IntStream.of(new int[]{i,map[i]}).boxed().collect(Collectors.toList()));
             }
         }
         return res;
