@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/QC337_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC337_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC337_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC337_4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q141/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q143/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1641/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q23/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2367/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2469/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q25/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_338_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_338_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_338_3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_338_4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -72,14 +79,14 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="QC_338_4" />
+      <recent name="QC_338_3" />
+      <recent name="QC_338_2" />
       <recent name="QC337_3" />
       <recent name="QC337_2" />
-      <recent name="QC336_3" />
-      <recent name="QC336_2" />
-      <recent name="QC333_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -119,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC336_3.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC_338_3.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QC336_3.*" />
+          <option name="PATTERN" value="QC_338_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +381,14 @@
       <workItem from="1678602444199" duration="614000" />
       <workItem from="1678715471247" duration="2967000" />
       <workItem from="1678973247356" duration="1506000" />
-      <workItem from="1679192864971" duration="5936000" />
+      <workItem from="1679192864971" duration="6561000" />
+      <workItem from="1679212470016" duration="1193000" />
+      <workItem from="1679408406146" duration="678000" />
+      <workItem from="1679797591249" duration="3877000" />
+      <workItem from="1679843655614" duration="103000" />
+      <workItem from="1680103258764" duration="477000" />
+      <workItem from="1680230470144" duration="3757000" />
+      <workItem from="1680335734191" duration="1027000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -607,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678722406016</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="commit20230319">
+      <created>1679201548803</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1679201548803</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +646,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20220822" />
     <MESSAGE value="commit20220826" />
     <MESSAGE value="commit20220830" />
     <MESSAGE value="commit20220901" />
@@ -650,7 +670,8 @@
     <MESSAGE value="commit20230211" />
     <MESSAGE value="commit20230212" />
     <MESSAGE value="commit202303&#10;13" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit202303&#10;13" />
+    <MESSAGE value="commit20230319" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20230319" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
