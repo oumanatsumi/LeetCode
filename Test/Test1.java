@@ -22,5 +22,7 @@ public class Test1 {
         Double d2 = 0.05;
         System.out.println(d1.hashCode());
         System.out.println(d2.hashCode());
+
+        Hashtable<Integer,Integer> hashtable = new Hashtable<>();
    }
 }

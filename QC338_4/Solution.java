@@ -1,4 +1,4 @@
-package QC_338_4;
+package QC338_4;
 
 public class Solution {
 }
