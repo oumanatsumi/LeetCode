@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q121/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q122/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC339_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC339_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC339_3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2427/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q70/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q70/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,6 +380,8 @@
       <workItem from="1680230470144" duration="3757000" />
       <workItem from="1680335734191" duration="3077000" />
       <workItem from="1680401024083" duration="3118000" />
+      <workItem from="1680490088927" duration="63000" />
+      <workItem from="1680669747349" duration="1750000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -629,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680337079351</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="commit20230402">
+      <created>1680490142879</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1680490142879</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +653,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20220830" />
     <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20221012" />
     <MESSAGE value="commit20221018" />
@@ -672,7 +677,8 @@
     <MESSAGE value="commit202303&#10;13" />
     <MESSAGE value="commit20230319" />
     <MESSAGE value="commit20230401-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20230401-1" />
+    <MESSAGE value="commit20230402" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20230402" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
