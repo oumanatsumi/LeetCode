@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20230331">
-      <change afterPath="$PROJECT_DIR$/Q123/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1637/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q188/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q309/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20230403">
+      <change afterPath="$PROJECT_DIR$/SPOffer55/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer56/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q122/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q122/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_338_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QC338_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_338_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QC338_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_338_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QC338_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_338_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QC338_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +73,7 @@
       <recent name="QC_322_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q309.Solution">
+  <component name="RunManager" selected="Application.SPOffer56.Solution">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -121,19 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2439.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2439.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q2439.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q309.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q309.Solution" />
       <module name="LeetCode" />
@@ -160,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2500.Solution" />
+    <configuration name="SPOffer56.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer56.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q2500.*" />
+          <option name="PATTERN" value="SPOffer56.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SPOffer56.Solution" />
         <item itemvalue="Application.Q309.Solution" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Q1792.Solution (1)" />
         <item itemvalue="Application.Q1792.Solution" />
-        <item itemvalue="Application.Q2439.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +299,7 @@
       <workItem from="1674913800741" duration="5678000" />
       <workItem from="1675838573116" duration="8066000" />
       <workItem from="1678861016178" duration="1518000" />
+      <workItem from="1681792266514" duration="3944000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -524,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680490244582</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="commit20230403">
+      <created>1680517452482</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1680517452482</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test一哈" />
     <MESSAGE value="commit20220822" />
     <MESSAGE value="commit20220826" />
     <MESSAGE value="commit20220830" />
@@ -567,7 +553,8 @@
     <MESSAGE value="commit20230223" />
     <MESSAGE value="commit20230314" />
     <MESSAGE value="commit20230331" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20230331" />
+    <MESSAGE value="commit20230403" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20230403" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,11 +573,6 @@
           <url>file://$PROJECT_DIR$/Q6285/Solution.java</url>
           <line>19</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Q309/Solution.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
