@@ -1,4 +1,4 @@
-package SPOffer58;
+package SPOffer58_2;
 
 public class Solution {
     public String reverseLeftWords(String s, int n) {

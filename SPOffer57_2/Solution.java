@@ -22,7 +22,7 @@ public class Solution {
 //        return resList.toArray(new int[0][0]);
 //    }
 
-    // 方法二：双指针
+    // 方法二：双指针滑动窗口
     public int[][] findContinuousSequence(int target) {
         int left = 1, right = 2;
         List<int[]> resList = new ArrayList<>();
