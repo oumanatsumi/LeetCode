@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20230403">
-      <change afterPath="$PROJECT_DIR$/SPOffer55/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer56/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202304020">
+      <change afterPath="$PROJECT_DIR$/SPOffer59_2/MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer60/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPOffer59/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer59_1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,52 +74,13 @@
       <recent name="QC_322_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SPOffer56.Solution">
+  <component name="RunManager" selected="Application.SPOffer60.Solution">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Q496.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1792.Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1792.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q1792.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1792.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1792.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q1792.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q309.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q309.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q309.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +101,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SPOffer56.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer56.Solution" />
+    <configuration name="SPOffer13.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer13.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer56.*" />
+          <option name="PATTERN" value="SPOffer13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPOffer56_2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer56_2.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SPOffer56_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPOffer57_2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer57_2.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SPOffer57_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPOffer59_1.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer59_1.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SPOffer59_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPOffer60.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer60.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SPOffer60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,26 +192,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test1" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SPOffer56.Solution" />
-        <item itemvalue="Application.Q309.Solution" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Q1792.Solution (1)" />
-        <item itemvalue="Application.Q1792.Solution" />
+        <item itemvalue="Application.SPOffer60.Solution" />
+        <item itemvalue="Application.SPOffer59_1.Solution" />
+        <item itemvalue="Application.SPOffer13.Solution" />
+        <item itemvalue="Application.SPOffer57_2.Solution" />
+        <item itemvalue="Application.SPOffer56_2.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +300,8 @@
       <workItem from="1674913800741" duration="5678000" />
       <workItem from="1675838573116" duration="8066000" />
       <workItem from="1678861016178" duration="1518000" />
-      <workItem from="1681792266514" duration="3944000" />
+      <workItem from="1681792266514" duration="28979000" />
+      <workItem from="1682491757621" duration="5038000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -511,7 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680517452482</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="commit202304018">
+      <created>1681813612568</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1681813612568</updated>
+    </task>
+    <task id="LOCAL-00032" summary="commit202304020">
+      <created>1681987008229</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1681987008229</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,8 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20220822" />
-    <MESSAGE value="commit20220826" />
     <MESSAGE value="commit20220830" />
     <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20221012" />
@@ -554,7 +568,9 @@
     <MESSAGE value="commit20230314" />
     <MESSAGE value="commit20230331" />
     <MESSAGE value="commit20230403" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20230403" />
+    <MESSAGE value="commit202304018" />
+    <MESSAGE value="commit202304020" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit202304020" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -573,6 +589,11 @@
           <url>file://$PROJECT_DIR$/Q6285/Solution.java</url>
           <line>19</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SPOffer57_2/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

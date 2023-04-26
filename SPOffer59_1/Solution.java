@@ -1,9 +1,7 @@
-package SPOffer59;
+package SPOffer59_1;
 
-import java.util.Comparator;
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.PriorityQueue;
 
 public class Solution {
 

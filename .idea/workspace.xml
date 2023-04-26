@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202304018">
-      <change afterPath="$PROJECT_DIR$/SPOffer13/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer58_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer59/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202304020">
+      <change afterPath="$PROJECT_DIR$/SPOffer59_2/MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPOffer60/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer57_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer57_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer58/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer58_2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPOffer59/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer59_1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <recent name="QC_322_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SPOffer59.Solution">
+  <component name="RunManager" selected="Application.SPOffer60.Solution">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -142,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SPOffer59.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer59.Solution" />
+    <configuration name="SPOffer59_1.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer59_1.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer59.*" />
+          <option name="PATTERN" value="SPOffer59_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer56_1.Solution" />
+    <configuration name="SPOffer60.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer60.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer56_1.*" />
+          <option name="PATTERN" value="SPOffer60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SPOffer59.Solution" />
+        <item itemvalue="Application.SPOffer60.Solution" />
+        <item itemvalue="Application.SPOffer59_1.Solution" />
         <item itemvalue="Application.SPOffer13.Solution" />
         <item itemvalue="Application.SPOffer57_2.Solution" />
         <item itemvalue="Application.SPOffer56_2.Solution" />
-        <item itemvalue="Application.SPOffer56.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +301,8 @@
       <workItem from="1674913800741" duration="5678000" />
       <workItem from="1675838573116" duration="8066000" />
       <workItem from="1678861016178" duration="1518000" />
-      <workItem from="1681792266514" duration="26690000" />
+      <workItem from="1681792266514" duration="28979000" />
+      <workItem from="1682491757621" duration="7497000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -521,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681813612568</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="commit202304020">
+      <created>1681987008229</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1681987008229</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20220826" />
     <MESSAGE value="commit20220830" />
     <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20221012" />
@@ -564,7 +570,8 @@
     <MESSAGE value="commit20230331" />
     <MESSAGE value="commit20230403" />
     <MESSAGE value="commit202304018" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit202304018" />
+    <MESSAGE value="commit202304020" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit202304020" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -590,9 +597,9 @@
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SPOffer59/Solution.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="43" />
+          <url>file://$PROJECT_DIR$/SPOffer60/Solution.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
