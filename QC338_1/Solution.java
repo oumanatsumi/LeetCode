@@ -1,4 +1,4 @@
-package QC_338_1;
+package QC338_1;
 
 public class Solution {
     public int kItemsWithMaximumSum(int numOnes, int numZeros, int numNegOnes, int k) {

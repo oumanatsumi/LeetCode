@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/QC340_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC340_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC340_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC341_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC341_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q121/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q122/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC339_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC339_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC339_3/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,14 +72,14 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="QC341_2" />
-      <recent name="QC340_3" />
-      <recent name="QC340_2" />
       <recent name="QC339_3" />
       <recent name="QC339_2" />
+      <recent name="QC_338_4" />
+      <recent name="QC_338_3" />
+      <recent name="QC_338_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -145,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC339_2.Solution" />
+    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC337_2.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QC339_2.*" />
+          <option name="PATTERN" value="QC337_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC341_3.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC337_3.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QC341_3.*" />
+          <option name="PATTERN" value="QC337_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -382,12 +382,7 @@
       <workItem from="1680103258764" duration="477000" />
       <workItem from="1680230470144" duration="3757000" />
       <workItem from="1680335734191" duration="3077000" />
-      <workItem from="1680401024083" duration="3118000" />
-      <workItem from="1680490088927" duration="63000" />
-      <workItem from="1680669747349" duration="2411000" />
-      <workItem from="1680849053062" duration="1198000" />
-      <workItem from="1681005360165" duration="6819000" />
-      <workItem from="1681612176890" duration="737000" />
+      <workItem from="1680401024083" duration="1213000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -634,21 +629,7 @@
       <option name="project" value="LOCAL" />
       <updated>1680337079351</updated>
     </task>
-    <task id="LOCAL-00036" summary="commit20230402">
-      <created>1680490142879</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1680490142879</updated>
-    </task>
-    <task id="LOCAL-00037" summary="commit20230405">
-      <created>1680682671871</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1680682671871</updated>
-    </task>
-    <option name="localTasksCounter" value="38" />
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,6 +647,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit20220830" />
+    <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20221012" />
     <MESSAGE value="commit20221018" />
     <MESSAGE value="commit20221019" />
@@ -689,9 +672,7 @@
     <MESSAGE value="commit202303&#10;13" />
     <MESSAGE value="commit20230319" />
     <MESSAGE value="commit20230401-1" />
-    <MESSAGE value="commit20230402" />
-    <MESSAGE value="commit20230405" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20230405" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20230401-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

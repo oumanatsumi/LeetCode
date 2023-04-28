@@ -1,4 +1,4 @@
-package QC_338_2;
+package QC338_2;
 
 import java.util.ArrayList;
 import java.util.List;
