@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202304020">
-      <change afterPath="$PROJECT_DIR$/SPOffer59_2/MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer60/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202304026">
+      <change afterPath="$PROJECT_DIR$/Q307/NumArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer59/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer59_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,7 +299,7 @@
       <workItem from="1675838573116" duration="8066000" />
       <workItem from="1678861016178" duration="1518000" />
       <workItem from="1681792266514" duration="28979000" />
-      <workItem from="1682491757621" duration="7497000" />
+      <workItem from="1682491757621" duration="11460000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -528,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681987008229</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="commit202304026">
+      <created>1682503252664</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1682503252664</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20220830" />
     <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20221012" />
     <MESSAGE value="commit20221018" />
@@ -571,7 +574,8 @@
     <MESSAGE value="commit20230403" />
     <MESSAGE value="commit202304018" />
     <MESSAGE value="commit202304020" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit202304020" />
+    <MESSAGE value="commit202304026" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit202304026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
