@@ -133,30 +133,44 @@ class SegmentTree<E> {
 
 
 
+//class NumArray {
+//    public SegmentTree<Integer> tree;
+//    public NumArray(int[] nums) {
+//        int n = nums.length;
+//        Integer[] nums_ = new Integer[n];
+//        for (int i = 0; i < n; i++) {
+//            nums_[i] = nums[i];
+//        }
+//        tree = new SegmentTree<>(nums_,Integer::max);
+//    }
+//
+//    public void update(int index, int val) {
+//        tree.update(index, val);
+//    }
+//
+//    public int sumRange(int left, int right) {
+//        return tree.search(left, right);
+//    }
+//}
+
 class NumArray {
-    public SegmentTree<Integer> tree;
+    public MySegmentTree tree;
     public NumArray(int[] nums) {
-        int n = nums.length;
-        Integer[] nums_ = new Integer[n];
-        for (int i = 0; i < n; i++) {
-            nums_[i] = nums[i];
-        }
-        tree = new SegmentTree<>(nums_,Integer::sum);
+        tree = new MySegmentTree(nums);
     }
 
     public void update(int index, int val) {
-        tree.update(index, val);
+        tree.updateSingleNode(0, index, val);
     }
 
-    public int sumRange(int left, int right) {
-        return tree.search(left, right);
+    public int query(int left, int right) {
+        return tree.sumRange(0, left, right);
+    }
+
+    public static void main(String[] args) {
+        NumArray numArray = new NumArray(new int[]{10,11,12,13,14});
+        numArray.update(2,1);
+        int res1 = numArray.query(2,4);
+        System.out.println(res1);
     }
 }
-
-
-/**
- * Your NumArray object will be instantiated and called as such:
- * NumArray obj = new NumArray(nums);
- * obj.update(index,val);
- * int param_2 = obj.sumRange(left,right);
- */
