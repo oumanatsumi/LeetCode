@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit202304020">
-      <change afterPath="$PROJECT_DIR$/SPOffer59_2/MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer60/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="commit20230405">
+      <change afterPath="$PROJECT_DIR$/Q2569/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer59/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer59_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +51,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="QC_327_3" />
-      <recent name="QC_327_2" />
-      <recent name="QC_323_3" />
-      <recent name="QC_323_2" />
-      <recent name="QC_322_3" />
+      <recent name="QC344_3" />
+      <recent name="QC344_2" />
+      <recent name="QC341_3" />
+      <recent name="QC341_2" />
+      <recent name="QC340_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SPOffer60.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SPOffer13.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer13.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer65.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer13.*" />
+          <option name="PATTERN" value="SPOffer65.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SPOffer56_2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer56_2.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC344_3.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer56_2.*" />
+          <option name="PATTERN" value="QC344_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SPOffer57_2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer57_2.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2569.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer57_2.*" />
+          <option name="PATTERN" value="Q2569.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SPOffer59_1.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer59_1.Solution" />
+    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer62.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer59_1.*" />
+          <option name="PATTERN" value="SPOffer62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SPOffer60.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SPOffer60.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC344_4.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SPOffer60.*" />
+          <option name="PATTERN" value="QC344_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2500.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q2500.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SPOffer60.Solution" />
-        <item itemvalue="Application.SPOffer59_1.Solution" />
-        <item itemvalue="Application.SPOffer13.Solution" />
-        <item itemvalue="Application.SPOffer57_2.Solution" />
-        <item itemvalue="Application.SPOffer56_2.Solution" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -298,11 +311,48 @@
       <workItem from="1674574435893" duration="770000" />
       <workItem from="1674704318091" duration="1717000" />
       <workItem from="1674826564124" duration="3288000" />
-      <workItem from="1674913800741" duration="5678000" />
-      <workItem from="1675838573116" duration="8066000" />
-      <workItem from="1678861016178" duration="1518000" />
-      <workItem from="1681792266514" duration="28979000" />
-      <workItem from="1682491757621" duration="7497000" />
+      <workItem from="1674913800741" duration="6201000" />
+      <workItem from="1674958729690" duration="8008000" />
+      <workItem from="1675068663490" duration="2864000" />
+      <workItem from="1675163906044" duration="1942000" />
+      <workItem from="1675262183297" duration="4955000" />
+      <workItem from="1675517090520" duration="1726000" />
+      <workItem from="1676165801402" duration="12559000" />
+      <workItem from="1676213271118" duration="1244000" />
+      <workItem from="1676298240517" duration="3314000" />
+      <workItem from="1676338058783" duration="892000" />
+      <workItem from="1676379535131" duration="6138000" />
+      <workItem from="1676549169375" duration="2876000" />
+      <workItem from="1676730078666" duration="5568000" />
+      <workItem from="1676772713063" duration="6122000" />
+      <workItem from="1676898690336" duration="684000" />
+      <workItem from="1678542463993" duration="2852000" />
+      <workItem from="1678588094750" duration="3578000" />
+      <workItem from="1678602444199" duration="614000" />
+      <workItem from="1678715471247" duration="2967000" />
+      <workItem from="1678973247356" duration="1506000" />
+      <workItem from="1679192864971" duration="6561000" />
+      <workItem from="1679212470016" duration="1193000" />
+      <workItem from="1679408406146" duration="678000" />
+      <workItem from="1679797591249" duration="3877000" />
+      <workItem from="1679843655614" duration="103000" />
+      <workItem from="1680103258764" duration="477000" />
+      <workItem from="1680230470144" duration="3757000" />
+      <workItem from="1680335734191" duration="3077000" />
+      <workItem from="1680401024083" duration="3118000" />
+      <workItem from="1680490088927" duration="63000" />
+      <workItem from="1680669747349" duration="2411000" />
+      <workItem from="1680849053062" duration="1198000" />
+      <workItem from="1681005360165" duration="6819000" />
+      <workItem from="1681612176890" duration="1885000" />
+      <workItem from="1681885273833" duration="438000" />
+      <workItem from="1682142446310" duration="2000" />
+      <workItem from="1682735993523" duration="331000" />
+      <workItem from="1682754308247" duration="1809000" />
+      <workItem from="1682851503094" duration="1415000" />
+      <workItem from="1682922615652" duration="2539000" />
+      <workItem from="1683426358340" duration="6920000" />
+      <workItem from="1683553859859" duration="5395000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -486,49 +536,84 @@
       <option name="project" value="LOCAL" />
       <updated>1671069886458</updated>
     </task>
-    <task id="LOCAL-00027" summary="commit20230222">
-      <created>1677054657624</created>
+    <task id="LOCAL-00027" summary="commit20230128">
+      <created>1674921260837</created>
       <option name="number" value="00027" />
       <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1677054657624</updated>
+      <updated>1674921260837</updated>
     </task>
-    <task id="LOCAL-00028" summary="commit20230223">
-      <created>1677151683643</created>
+    <task id="LOCAL-00028" summary="commit20230129">
+      <created>1674978570891</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1677151683643</updated>
+      <updated>1674978570891</updated>
     </task>
-    <task id="LOCAL-00029" summary="commit20230331">
-      <created>1680490244582</created>
+    <task id="LOCAL-00029" summary="commit20230129">
+      <created>1675093928810</created>
       <option name="number" value="00029" />
       <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1680490244582</updated>
+      <updated>1675093928811</updated>
     </task>
-    <task id="LOCAL-00030" summary="commit20230403">
-      <created>1680517452482</created>
+    <task id="LOCAL-00030" summary="commit20230211">
+      <created>1676129157819</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1680517452482</updated>
+      <updated>1676129157819</updated>
     </task>
-    <task id="LOCAL-00031" summary="commit202304018">
-      <created>1681813612568</created>
+    <task id="LOCAL-00031" summary="commit20230212">
+      <created>1676251597439</created>
       <option name="number" value="00031" />
       <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1681813612568</updated>
+      <updated>1676251597439</updated>
     </task>
-    <task id="LOCAL-00032" summary="commit202304020">
-      <created>1681987008229</created>
+    <task id="LOCAL-00032" summary="commit20230212">
+      <created>1678632582211</created>
       <option name="number" value="00032" />
       <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1681987008229</updated>
+      <updated>1678632582211</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="commit202303&#10;13">
+      <created>1678722406016</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1678722406016</updated>
+    </task>
+    <task id="LOCAL-00034" summary="commit20230319">
+      <created>1679201548803</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1679201548803</updated>
+    </task>
+    <task id="LOCAL-00035" summary="commit20230401-1">
+      <created>1680337079351</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1680337079351</updated>
+    </task>
+    <task id="LOCAL-00036" summary="commit20230402">
+      <created>1680490142879</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1680490142879</updated>
+    </task>
+    <task id="LOCAL-00037" summary="commit20230405">
+      <created>1680682671871</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1680682671871</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,8 +631,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20220830" />
-    <MESSAGE value="commit20220901" />
     <MESSAGE value="commit20221012" />
     <MESSAGE value="commit20221018" />
     <MESSAGE value="commit20221019" />
@@ -564,14 +647,16 @@
     <MESSAGE value="commit2022124" />
     <MESSAGE value="commit20221211" />
     <MESSAGE value="commit20221214" />
-    <MESSAGE value="commit20230222" />
-    <MESSAGE value="commit20230223" />
-    <MESSAGE value="commit20230314" />
-    <MESSAGE value="commit20230331" />
-    <MESSAGE value="commit20230403" />
-    <MESSAGE value="commit202304018" />
-    <MESSAGE value="commit202304020" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit202304020" />
+    <MESSAGE value="commit20230128" />
+    <MESSAGE value="commit20230129" />
+    <MESSAGE value="commit20230211" />
+    <MESSAGE value="commit20230212" />
+    <MESSAGE value="commit202303&#10;13" />
+    <MESSAGE value="commit20230319" />
+    <MESSAGE value="commit20230401-1" />
+    <MESSAGE value="commit20230402" />
+    <MESSAGE value="commit20230405" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20230405" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -592,14 +677,19 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SPOffer57_2/Solution.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="38" />
+          <url>file://$PROJECT_DIR$/QC333_2/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SPOffer60/Solution.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="50" />
+          <url>file://$PROJECT_DIR$/QC341_3/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/QC344_3/Solution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -612,6 +702,14 @@
       <configuration name="Application">
         <watch expression="treeNodes[3].linked" />
         <watch expression="arr_copy" />
+        <watch expression="bitCntMap" />
+        <watch expression="n" />
+        <watch expression="map" />
+        <watch expression="tree.nodes[14]" />
+        <watch expression="tree.nodes[4]" />
+        <watch expression="tree.nodes[4]" />
+        <watch expression="tree.nodes[7]" />
+        <watch expression="nodes[2]" />
       </configuration>
     </watches-manager>
   </component>
