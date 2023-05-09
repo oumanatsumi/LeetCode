@@ -40,27 +40,58 @@ class MySegmentTreePlus {
         nodes[curIndex] = new Node(curNodeVal, left, right);
     }
 
-//    public void updateSingleNode(int nodeIndex, int index, int newVal){
-//        Node curNode = nodes[nodeIndex];
-//        int left = curNode.left;
-//        int right = curNode.right;
-//        if(left == right){
-//            curNode.val = newVal;
-//            return;
-//        }
-//        int leftNodeIndex = nodeIndex * 2 + 1;
-//        int rightNodeIndex = nodeIndex * 2 + 2;
-//        int mid = (left + right) >>> 1;
-//        if(index > mid){
-//            updateSingleNode(rightNodeIndex, index , newVal);
-//        }else {
-//            updateSingleNode(leftNodeIndex,index,newVal );
-//        }
-//        curNode.val = nodes[leftNodeIndex].val + nodes[rightNodeIndex].val;
-//    }
+    public void updateSingleNode(int nodeIndex, int index, int newVal){
+        Node curNode = nodes[nodeIndex];
+        int left = curNode.left;
+        int right = curNode.right;
+        if(left == right){
+            curNode.val = newVal;
+            return;
+        }
+        int leftNodeIndex = nodeIndex * 2 + 1;
+        int rightNodeIndex = nodeIndex * 2 + 2;
+        int mid = (left + right) >>> 1;
+        if(index > mid){
+            updateSingleNode(rightNodeIndex, index , newVal);
+        }else {
+            updateSingleNode(leftNodeIndex,index,newVal );
+        }
+        curNode.val = nodes[leftNodeIndex].val + nodes[rightNodeIndex].val;
+    }
 
     public void updateRange(int nodeIndex, int rangeLeft, int rangeRight, int addVal){
+        Node curNode = nodes[nodeIndex];
+        int left = curNode.left;
+        int right = curNode.right;
 
+        int leftNodeIndex = nodeIndex * 2 + 1;
+        int rightNodeIndex = nodeIndex * 2 + 2;
+
+        if(curNode.lazy != 0 && nodes[leftNodeIndex]!=null){
+            nodes[leftNodeIndex].lazy += curNode.lazy;
+            nodes[leftNodeIndex].val += nodes[leftNodeIndex].lazy * (nodes[leftNodeIndex].right - nodes[leftNodeIndex].left + 1);
+            nodes[rightNodeIndex].lazy += curNode.lazy;
+            nodes[rightNodeIndex].val += nodes[rightNodeIndex].lazy * (nodes[rightNodeIndex].right - nodes[rightNodeIndex].left + 1);
+            curNode.lazy = 0;
+        }
+
+        if(rangeLeft == left && rangeRight == right){
+            curNode.val += addVal * (rangeRight - rangeLeft + 1);
+            curNode.lazy += addVal;
+            return;
+        }
+
+        int mid = (left + right) >>> 1;
+
+        if(rangeRight <= mid){
+            updateRange(leftNodeIndex, rangeLeft, rangeRight , addVal);
+        } else if(rangeLeft > mid) {
+            updateRange(rightNodeIndex, rangeLeft, rangeRight , addVal);
+        } else {
+            updateRange(leftNodeIndex, rangeLeft, mid , addVal);
+            updateRange(rightNodeIndex, mid+ 1, rangeRight , addVal);
+        }
+        curNode.val = nodes[leftNodeIndex].val + nodes[rightNodeIndex].val;
     }
 
 
@@ -68,16 +99,29 @@ class MySegmentTreePlus {
         Node curNode = nodes[nodeIndex];
         int left = curNode.left;
         int right = curNode.right;
+
+        int leftNodeIndex = nodeIndex * 2 + 1;
+        int rightNodeIndex = nodeIndex * 2 + 2;
+
+        if(curNode.lazy != 0 && nodes[leftNodeIndex]!=null){
+            nodes[leftNodeIndex].lazy += curNode.lazy;
+            nodes[leftNodeIndex].val = (nodes[leftNodeIndex].right - nodes[leftNodeIndex].left + 1) * nodes[leftNodeIndex].lazy;
+            nodes[rightNodeIndex].lazy += curNode.lazy;
+            nodes[rightNodeIndex].val = (nodes[rightNodeIndex].right - nodes[rightNodeIndex].left + 1) * nodes[rightNodeIndex].lazy;
+            curNode.lazy = 0;
+        }
+
         if(queryLeft == left && queryRight == right){
             return curNode.val;
         }
+
         int mid = (left + right) >>> 1;
         int leftSum = 0, rightSum = 0;
         if(queryLeft <= mid){
-            leftSum = sumRange(nodeIndex * 2 + 1, queryLeft, mid);
+            leftSum = sumRange(leftNodeIndex, queryLeft, mid);
         }
         if(queryRight > mid){
-            rightSum = sumRange(nodeIndex * 2 + 2, mid+1, queryRight);
+            rightSum = sumRange(rightNodeIndex, mid+1, queryRight);
         }
         return leftSum + rightSum;
     }

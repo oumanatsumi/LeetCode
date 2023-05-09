@@ -154,13 +154,17 @@ class SegmentTree<E> {
 //}
 
 class NumArray {
-    public MySegmentTree tree;
+    public MySegmentTreePlus tree;
     public NumArray(int[] nums) {
-        tree = new MySegmentTree(nums);
+        tree = new MySegmentTreePlus(nums);
     }
 
     public void update(int index, int val) {
         tree.updateSingleNode(0, index, val);
+    }
+
+    public void updateRange(int left, int right, int addVal){
+        tree.updateRange(0, left, right, addVal);
     }
 
     public int query(int left, int right) {
@@ -169,8 +173,9 @@ class NumArray {
 
     public static void main(String[] args) {
         NumArray numArray = new NumArray(new int[]{10,11,12,13,14});
-        numArray.update(2,1);
-        int res1 = numArray.query(2,4);
+        numArray.updateRange(0,1,2);
+        numArray.updateRange(0,3,3);
+        int res1 = numArray.query(0,4);
         System.out.println(res1);
     }
 }
