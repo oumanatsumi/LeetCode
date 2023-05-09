@@ -3,10 +3,8 @@ package Q2569;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.IntStream;
-import java.util.stream.LongStream;
 
-public class Solution {
+class Solution {
 
     class MySegmentTreePlus {
         private class Node{
@@ -63,23 +61,12 @@ public class Solution {
             }
 
             if(curNode.lazy != 0 && nodes[leftNodeIndex]!=null){
-                if(nodes[leftNodeIndex].lazy == 0){
-                    nodes[leftNodeIndex].lazy = 1;
-                    nodes[leftNodeIndex].val = nodes[leftNodeIndex].right - nodes[leftNodeIndex].left + 1 - nodes[leftNodeIndex].val;
-                }else {
-                    nodes[leftNodeIndex].lazy = 0;
-                }
-                if(nodes[rightNodeIndex].lazy == 0){
-                    nodes[rightNodeIndex].lazy = 1;
-                    nodes[rightNodeIndex].val = nodes[rightNodeIndex].right - nodes[rightNodeIndex].left + 1 - nodes[rightNodeIndex].val;
-                }else {
-                    nodes[rightNodeIndex].lazy = 0;
-                }
+                nodes[leftNodeIndex].lazy = 1 - nodes[leftNodeIndex].lazy;
+                nodes[leftNodeIndex].val = nodes[leftNodeIndex].right - nodes[leftNodeIndex].left + 1 - nodes[leftNodeIndex].val;
+                nodes[rightNodeIndex].lazy = 1 - nodes[rightNodeIndex].lazy;
+                nodes[rightNodeIndex].val = nodes[rightNodeIndex].right - nodes[rightNodeIndex].left + 1 - nodes[rightNodeIndex].val;
                 curNode.lazy = 0;
             }
-
-
-
             int mid = (left + right) >>> 1;
 
             if(rangeRight <= mid){
@@ -93,47 +80,6 @@ public class Solution {
             curNode.val = nodes[leftNodeIndex].val + nodes[rightNodeIndex].val;
         }
 
-
-        public void clearAllLazyTag(int nodeIndex, int queryLeft, int queryRight){
-            Node curNode = nodes[nodeIndex];
-            int left = curNode.left;
-            int right = curNode.right;
-
-            int leftNodeIndex = nodeIndex * 2 + 1;
-            int rightNodeIndex = nodeIndex * 2 + 2;
-
-            if(queryLeft == queryRight){
-                curNode.lazy = 0;
-                return ;
-            }
-
-            if(leftNodeIndex < nodes.length && curNode.lazy != 0 && nodes[leftNodeIndex]!=null){
-                if(nodes[leftNodeIndex].lazy == 0){
-                    nodes[leftNodeIndex].lazy = 1;
-                    nodes[leftNodeIndex].val = nodes[leftNodeIndex].right - nodes[leftNodeIndex].left + 1 - nodes[leftNodeIndex].val;
-                }else {
-                    nodes[leftNodeIndex].lazy = 0;
-                }
-                if(nodes[rightNodeIndex].lazy == 0){
-                    nodes[rightNodeIndex].lazy = 1;
-                    nodes[rightNodeIndex].val = nodes[rightNodeIndex].right - nodes[rightNodeIndex].left + 1 - nodes[rightNodeIndex].val;
-                }else {
-                    nodes[rightNodeIndex].lazy = 0;
-                }
-                curNode.lazy = 0;
-            }
-
-
-
-            int mid = (left + right) >>> 1;
-            if(queryLeft <= mid){
-                clearAllLazyTag(leftNodeIndex, queryLeft, mid);
-            }
-            if(queryRight > mid){
-                clearAllLazyTag(rightNodeIndex, mid+1, queryRight);
-            }
-        }
-
     }
 
 
@@ -141,22 +87,17 @@ public class Solution {
         MySegmentTreePlus tree = new MySegmentTreePlus(nums1);
         int n = nums1.length;
         List<Long> ansList = new ArrayList<>();
+        long sum = 0L;
+        for (int i = 0; i < n; i++) {
+            sum += nums2[i];
+        }
         for (int i = 0; i < queries.length; i++) {
             if(queries[i][0] == 1){
                 tree.updateRange(0,queries[i][1],queries[i][2]);
             }else if(queries[i][0] == 2){
-                tree.clearAllLazyTag(0,0, n-1);
-                for (int j = 0; j < 4*n; j++) {
-                    if(tree.nodes[j] == null || tree.nodes[j].left != tree.nodes[j].right) continue;
-                    int curNumIndex = tree.nodes[j].left;
-                    nums2[curNumIndex] += queries[i][1] * tree.nodes[j].val;
-                }
+                sum += (long) tree.nodes[0].val * queries[i][1];
             }else {
-                Long tmp = 0L;
-                for (int j = 0; j < n; j++) {
-                    tmp += nums2[j];
-                }
-                ansList.add(tmp);
+                ansList.add(sum);
             }
         }
         long[] ans = new long[ansList.size()];
@@ -171,8 +112,12 @@ public class Solution {
         Solution s = new Solution();
         long[] res = s.handleQuery(new int[]{1,1,1,1,0,1,1,0,0,0},
                 new int[]{33,13,13,5,34,7,47,2,14,6},
-                new int[][]{{2,14,0},{1,8,8},{3,0,0},{1,3,6},{1,3,9},{1,8,8},{3,0,0},{1,8,9},
-                        {3,0,0},{2,28,0},{3,0,0},{2,22,0},{2,21,0},{3,0,0},{3,0,0},{1,5,7},{1,0,3},{2,7,0},{3,0,0},{3,0,0}});
+                new int[][]{{2,14,0},{1,8,8},{3,0,0},
+                        {1,3,6},{1,3,9},{1,8,8},{3,0,0},
+                        {1,8,9},{3,0,0},
+                        {2,28,0},{3,0,0},
+                        {2,22,0},{2,21,0},{3,0,0},{3,0,0},
+                        {1,5,7},{1,0,3},{2,7,0}, {3,0,0},{3,0,0}});
 
         for(long r : res){
             System.out.println(r);
