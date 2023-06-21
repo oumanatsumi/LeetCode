@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q33/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q49/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q55/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q63/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q64/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q78/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_DoubleWeek105_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_DoubleWeek105_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC_DoubleWeek105_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOffer67/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC350_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC350_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC350_3/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer68_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer68_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Download/easy_doc-3.3.1-all.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -80,14 +71,14 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="QC350_3" />
+      <recent name="QC350_2" />
       <recent name="QC_DoubleWeek105_3" />
       <recent name="QC_DoubleWeek105_2" />
       <recent name="QC_DoubleWeek105_1" />
-      <recent name="QC344_3" />
-      <recent name="QC344_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -127,6 +118,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QC350_3.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QC350_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q2569.Solution" />
       <module name="LeetCode" />
@@ -146,19 +150,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="QC_DoubleWeek105_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC344_4.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QC344_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +362,14 @@
       <workItem from="1686531351766" duration="8687000" />
       <workItem from="1686635395093" duration="6830000" />
       <workItem from="1686708657358" duration="602000" />
-      <workItem from="1686812567544" duration="1275000" />
+      <workItem from="1686812567544" duration="2662000" />
+      <workItem from="1686879403738" duration="600000" />
+      <workItem from="1687054881188" duration="3645000" />
+      <workItem from="1687139037018" duration="2643000" />
+      <workItem from="1687159503944" duration="234000" />
+      <workItem from="1687159759521" duration="1740000" />
+      <workItem from="1687307042325" duration="11836000" />
+      <workItem from="1687325743106" duration="4948000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -639,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685062955103</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="commit20230612-15">
+      <created>1686814238901</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1686814238901</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,7 +662,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20221018" />
     <MESSAGE value="commit20221019" />
     <MESSAGE value="commit20221021" />
     <MESSAGE value="commit20221025" />
@@ -682,7 +686,8 @@
     <MESSAGE value="commit20230402" />
     <MESSAGE value="commit20230405" />
     <MESSAGE value="commit20230525" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20230525" />
+    <MESSAGE value="commit20230612-15" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit20230612-15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -729,19 +734,5 @@
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="treeNodes[3].linked" />
-        <watch expression="arr_copy" />
-        <watch expression="bitCntMap" />
-        <watch expression="n" />
-        <watch expression="map" />
-        <watch expression="tree.nodes[14]" />
-        <watch expression="tree.nodes[4]" />
-        <watch expression="tree.nodes[4]" />
-        <watch expression="tree.nodes[7]" />
-        <watch expression="nodes[2]" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
