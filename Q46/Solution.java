@@ -2,7 +2,7 @@ package Q46;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     //
 //
 //    public List<List<Integer>> permute(int[] nums) {

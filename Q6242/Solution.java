@@ -16,7 +16,7 @@ class TreeNode {
   }
 
 
-public class Solution {
+class Solution {
     List<Integer> order = new ArrayList<>();
     public List<List<Integer>> closestNodes(TreeNode root, List<Integer> queries) {
         traverse(root);

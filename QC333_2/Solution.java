@@ -1,6 +1,6 @@
 package QC333_2;
 
-public class Solution {
+class Solution {
     public int minOperations(int n) {
         int step = 0;
         while(n != 0){

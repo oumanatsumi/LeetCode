@@ -9,7 +9,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     public TreeNode mirrorTree(TreeNode root) {
         if(root == null) return null;
         TreeNode left = mirrorTree(root.left);

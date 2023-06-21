@@ -1,6 +1,6 @@
 package Q1668;
 
-public class Solution {
+class Solution {
     public int maxRepeating(String sequence, String word) {
         int n = sequence.length();
         int len = word.length();

@@ -1,6 +1,6 @@
 package Q520;
 
-public class Solution {
+class Solution {
     public boolean detectCapitalUse(String word) {
         if(word.toUpperCase().equals(word))
         {

@@ -1,6 +1,6 @@
 package Q1663;
 
-public class Solution {
+class Solution {
     public String getSmallestString(int n, int k) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < n; i++) {

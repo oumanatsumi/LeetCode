@@ -2,7 +2,7 @@ package Q2501;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
 //    public int longestSquareStreak(int[] nums) {
 //        Arrays.sort(nums);
 //        int n = nums.length;

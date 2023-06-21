@@ -1,6 +1,6 @@
 package QC335_4;
 
-public class Solution {
+class Solution {
     public int waysToReachTarget(int target, int[][] types) {
         int n =  types.length, m = target;
         int[][] f = new int[1001][1001];

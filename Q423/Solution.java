@@ -2,7 +2,7 @@ package Q423;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     Map<Character,Integer>[] maps = new Map[10];
 
     public String originalDigits(String s) {

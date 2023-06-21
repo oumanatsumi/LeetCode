@@ -1,6 +1,6 @@
 package QC334_1;
 
-public class Solution {
+class Solution {
     public int[] leftRigthDifference(int[] nums) {
         int n = nums.length;
         int[] leftSum = new int[n];

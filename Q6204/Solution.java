@@ -3,7 +3,7 @@ package Q6204;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     public int findMaxK(int[] nums) {
         Set<Integer> set = new HashSet<>();
         int max = -1001 ;

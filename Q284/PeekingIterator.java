@@ -2,7 +2,7 @@ package Q284;
 
 import java.util.Iterator;
 
-public class PeekingIterator implements Iterator<Integer> {
+class PeekingIterator implements Iterator<Integer> {
     private Iterator<Integer> iterator;
     private Integer nextElement;
 

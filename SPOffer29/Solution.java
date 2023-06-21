@@ -1,6 +1,6 @@
 package SPOffer29;
 
-public class Solution {
+class Solution {
     public int[] spiralOrder(int[][] matrix) {
         int m = matrix.length;
         if (m == 0) return new int[]{};

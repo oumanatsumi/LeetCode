@@ -3,7 +3,7 @@ package Q2395;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     public boolean findSubarrays(int[] nums) {
         if(nums.length == 2 )return false;
         Set<Integer> map = new HashSet<>();

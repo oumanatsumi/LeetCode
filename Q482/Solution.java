@@ -1,6 +1,6 @@
 package Q482;
 
-public class Solution {
+class Solution {
     public String licenseKeyFormatting(String s, int k) {
         s = s.replaceAll("-","");
         s = s.toUpperCase();

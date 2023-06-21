@@ -2,7 +2,7 @@ package Q1144;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int movesToMakeZigzag(int[] nums) {
         int r1 = 0 ,r2 = 0;
         int n = nums.length;

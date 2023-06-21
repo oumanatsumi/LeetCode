@@ -3,7 +3,7 @@ package QC344_1;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     public int[] distinctDifferenceArray(int[] nums) {
         int n = nums.length;
         int[] pre = new int[n];

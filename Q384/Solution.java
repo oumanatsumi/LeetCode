@@ -2,7 +2,7 @@ package Q384;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     int[] originNums;
 
     public Solution(int[] nums) {

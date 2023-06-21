@@ -3,7 +3,7 @@ package Q2457;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public long makeIntegerBeautiful(long n, int target) {
         long ans = 0;
         List<Integer> list = cal(n);

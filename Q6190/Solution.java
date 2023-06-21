@@ -3,7 +3,7 @@ package Q6190;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public List<Integer> goodIndices(int[] nums, int k) {
         List<Integer> res = new ArrayList<>();
         int n = nums.length;

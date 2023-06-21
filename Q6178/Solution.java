@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class Solution {
+class Solution {
     public int minGroups(int[][] intervals) {
         PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
         Arrays.sort(intervals, new Comparator<int[]>() {

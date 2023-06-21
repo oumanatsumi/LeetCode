@@ -2,7 +2,7 @@ package Q58;
 
 import java.awt.*;
 
-public class Solution {
+class Solution {
         public int lengthOfLastWord(String s) {
             StringBuffer sb = new StringBuffer(s);
             sb.reverse();

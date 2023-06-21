@@ -3,7 +3,7 @@ package Q2488;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int countSubarrays(int[] nums, int k) {
         int n = nums.length;
         int[] prefix = new int[n+1];

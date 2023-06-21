@@ -1,6 +1,6 @@
 package QC336_1;
 
-public class Solution {
+class Solution {
     public int vowelStrings(String[] words, int left, int right) {
         int cnt = 0;
         for (int i = left; i <= right ; i++) {

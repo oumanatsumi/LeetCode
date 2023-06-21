@@ -1,6 +1,6 @@
 package QC341_1;
 
-public class Solution {
+class Solution {
     public int[] rowAndMaximumOnes(int[][] mat) {
         int m = mat.length;
         int n = mat[0].length;

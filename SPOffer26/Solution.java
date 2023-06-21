@@ -10,7 +10,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     public boolean isSubStructure(TreeNode A, TreeNode B) {
         if(A == null || B == null) return false;
         if(A.val == B.val && isSubTree(A,B)){

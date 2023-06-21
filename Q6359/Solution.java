@@ -1,7 +1,7 @@
 package Q6359;
 
 
-public class Solution {
+class Solution {
     public int minMaxDifference(int num) {
         String str = String.valueOf(num);
         char re = '9' ;

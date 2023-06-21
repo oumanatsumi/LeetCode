@@ -1,6 +1,6 @@
 package SPOffer67;
 
-public class Solution {
+class Solution {
     public int strToInt(String str) {
         str = str.trim();
         if(str.length() == 0 || ((str.charAt(0) <'0' || str.charAt(0) >'9') && str.charAt(0) != '+' && str.charAt(0) !='-')){

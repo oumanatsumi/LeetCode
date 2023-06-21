@@ -22,7 +22,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
         List<List<Integer>> levelOrderRes = levelOrder(root);
         TreeNode newRoot = new TreeNode(levelOrderRes.get(0).get(0));

@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int shortestSubarray(int[] nums, int k) {
         int n = nums.length;
         long[] sum = new long[n+1];

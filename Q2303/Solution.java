@@ -1,6 +1,6 @@
 package Q2303;
 
-public class Solution {
+class Solution {
     public double calculateTax(int[][] brackets, int income) {
         double total = 0.0f;
         int n = brackets.length;

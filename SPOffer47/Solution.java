@@ -1,6 +1,6 @@
 package SPOffer47;
 
-public class Solution {
+class Solution {
     public int maxValue(int[][] grid) {
         int m = grid.length, n = grid[0].length;
         int[][] dp = new int[m][n];

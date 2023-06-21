@@ -19,7 +19,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     public TreeNode insertIntoMaxTree(TreeNode root, int val) {
         TreeNode father = null;
         TreeNode cur = root;

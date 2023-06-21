@@ -2,7 +2,7 @@ package QC341_2;
 
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int maxDivScore(int[] nums, int[] divisors) {
         int n = divisors.length;
         int m = nums.length;

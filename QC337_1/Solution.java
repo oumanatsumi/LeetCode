@@ -1,6 +1,6 @@
 package QC337_1;
 
-public class Solution {
+class Solution {
     public int[] evenOddBit(int n) {
         String bin = Integer.toBinaryString(n);
         int[] ans = new int[2];

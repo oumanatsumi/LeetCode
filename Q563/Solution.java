@@ -1,6 +1,6 @@
 package Q563;
 
-public class Solution {
+class Solution {
     int res= 0;
     public int findTilt(TreeNode root) {
         cul(root);

@@ -3,7 +3,7 @@ package Q1590;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int minSubarray(int[] nums, int p) {
         int n = nums.length;
         int[] prefix = new int[n+1];

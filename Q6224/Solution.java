@@ -1,6 +1,6 @@
 package Q6224;
 
-public class Solution {
+class Solution {
     public int subarrayGCD(int[] nums, int k) {
         int cnt = 0;
         for (int i = 0; i < nums.length; i++) {

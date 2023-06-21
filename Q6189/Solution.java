@@ -2,7 +2,7 @@ package Q6189;
 
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int longestSubarray(int[] nums) {
         int n = nums.length;
         int maxInt = nums[0];

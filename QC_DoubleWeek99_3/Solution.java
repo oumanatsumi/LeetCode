@@ -3,7 +3,7 @@ package QC_DoubleWeek99_3;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Solution {
+class Solution {
     int MOD = 1000000007;
     public int countWays(int[][] ranges) {
         Arrays.sort(ranges, new Comparator<int[]>() {

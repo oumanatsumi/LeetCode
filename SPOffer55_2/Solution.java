@@ -7,7 +7,7 @@ class TreeNode {
     TreeNode(int x) { val = x; }
 }
 
-public class Solution {
+class Solution {
     boolean flag = true;
     public boolean isBalanced(TreeNode root) {
         dfs(root);

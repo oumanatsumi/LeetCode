@@ -1,6 +1,6 @@
 package QC339_1;
 
-public class Solution {
+class Solution {
     public int findTheLongestBalancedSubstring(String s) {
         int max = 0;
         int n = s.length();

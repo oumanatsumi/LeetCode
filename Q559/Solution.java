@@ -17,7 +17,7 @@ class Node {
         children = _children;
     }
 }
-public class Solution {
+class Solution {
     int max = 0;
     public int maxDepth(Node root) {
         if(root==null)

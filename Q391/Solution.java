@@ -2,7 +2,7 @@ package Q391;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
 
     public boolean isRectangleCover(int[][] rectangles) {
         //先找到最大的总面积

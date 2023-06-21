@@ -1,6 +1,6 @@
 package QC350_1;
 
-public class Solution {
+class Solution {
     public int distanceTraveled(int mainTank, int additionalTank) {
         int des = 0, flag = 0;
         while (mainTank > 0){

@@ -1,6 +1,6 @@
 package Q88;
 
-public class Solution {
+class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int p1 = 0, p2 = 0;
         int[] sorted = new int[m + n];

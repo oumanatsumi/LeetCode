@@ -1,6 +1,6 @@
 package Q5;
 
-public class Solution {
+class Solution {
     public String longestPalindrome(String s) {
         int totalLength = s.length();
         int maxLength = 1;

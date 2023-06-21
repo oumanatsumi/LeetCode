@@ -2,7 +2,7 @@ package Q828;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     // 超时
 //    public int uniqueLetterString(String s) {
 //        int ans = 0;

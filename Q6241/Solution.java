@@ -1,6 +1,6 @@
 package Q6241;
 
-public class Solution {
+class Solution {
     public int unequalTriplets(int[] nums) {
         int n = nums.length;
         int cnt = 0;

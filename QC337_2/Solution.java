@@ -1,6 +1,6 @@
 package QC337_2;
 
-public class Solution {
+class Solution {
     int n;
     public boolean checkValidGrid(int[][] grid) {
         n = grid.length;

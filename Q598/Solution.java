@@ -3,7 +3,7 @@ package Q598;
 /**
  * @author Ouma Natsumi
  */
-public class Solution {
+class Solution {
     public int maxCount(int m, int n, int[][] ops) {
         if(ops.length==0)
         {

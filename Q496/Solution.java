@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class Solution {
+class Solution {
 
     // 直接
 //    public int[] nextGreaterElement(int[] nums1, int[] nums2) {

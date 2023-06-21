@@ -3,7 +3,7 @@ package QC338_2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public boolean primeSubOperation(int[] nums) {
         int n = nums.length;
         if(n == 1) return true;

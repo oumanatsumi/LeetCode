@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Stack;
 
-public class Solution {
+class Solution {
     public String interpret(String command) {
         Deque<Character> dq = new LinkedList<>();
         StringBuilder sb = new StringBuilder();

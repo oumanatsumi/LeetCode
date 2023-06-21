@@ -4,7 +4,7 @@ package Q500;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public String[] findWords(String[] words) {
         List<String> res = new ArrayList<>();
         String[] keyBoard = new String[3];

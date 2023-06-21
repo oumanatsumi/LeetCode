@@ -3,7 +3,7 @@ package Q6358;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
 //    public long[] handleQuery(int[] nums1, int[] nums2, int[][] queries) {
 //        int n = nums1.length;
 //        List<Integer> flag0 = new ArrayList<>();

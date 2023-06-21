@@ -11,7 +11,7 @@ class TreeNode {
         this.right = right;
     }
 }
-public class Solution {
+class Solution {
 
     public boolean evaluateTree(TreeNode root) {
         return dfs(root);

@@ -1,6 +1,6 @@
 package Q2482;
 
-public class Solution {
+class Solution {
     public int[][] onesMinusZeros(int[][] grid) {
         int row = grid.length;
         int col = grid[0].length;

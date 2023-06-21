@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Solution {
+class Solution {
     public int miceAndCheese(int[] reward1, int[] reward2, int k) {
         int n = reward1.length;
         int[] diff = new int[n];

@@ -10,7 +10,7 @@ class TreeNode {
       TreeNode(int x) { val = x; }
 }
 
-public class Solution {
+class Solution {
 
    public int kthLargest(TreeNode root, int k) {
         List<Integer > res = new ArrayList<>();

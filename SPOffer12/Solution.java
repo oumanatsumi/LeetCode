@@ -1,6 +1,6 @@
 package SPOffer12;
 
-public class Solution {
+class Solution {
     int m,n;
     public boolean exist(char[][] board, String word) {
         boolean[][] visited;

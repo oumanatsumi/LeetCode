@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public List<Long> minOperations(int[] nums, int[] queries) {
         int n = nums.length,m = queries.length;
         Arrays.sort(nums);

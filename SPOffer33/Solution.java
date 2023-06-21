@@ -14,7 +14,7 @@ import java.util.List;
 //    }
 //}
 
-public class Solution {
+class Solution {
     public boolean verifyPostorder(int[] postorder) {
         return verify(postorder,0,postorder.length-1);
     }

@@ -1,6 +1,6 @@
 package QC331_2;
 
-public class Solution {
+class Solution {
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n = words.length;
         int[] cntSum = new int[n];

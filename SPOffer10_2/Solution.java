@@ -1,6 +1,6 @@
 package SPOffer10_2;
 
-public class Solution {
+class Solution {
     public int numWays(int n) {
         if(n < 2) return 1;
         int a =1,b=1,c = 0;

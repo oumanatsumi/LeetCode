@@ -2,7 +2,7 @@ package Q852;
 
 import java.util.List;
 
-public class Solution {
+class Solution {
 
 //    public int peakIndexInMountainArray(int[] arr) {
 //        int index = 0;

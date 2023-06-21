@@ -1,6 +1,6 @@
 package Q799;
 
-public class Solution {
+class Solution {
     public double champagneTower(int poured, int query_row, int query_glass) {
         if(poured >= 5050) return 1.0f;
         double[][] dp = new double[101][101];

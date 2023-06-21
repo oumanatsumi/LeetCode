@@ -1,6 +1,6 @@
 package Q34;
 
-public class Solution {
+class Solution {
     // 暴力
 //    public int[] searchRange(int[] nums, int target) {
 //        int n = nums.length;

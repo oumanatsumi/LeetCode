@@ -2,7 +2,7 @@ package SPOffer9;
 
 import java.util.Stack;
 
-public class CQueue {
+class CQueue {
     Stack<Integer> stack1;
     Stack<Integer> stack2;
     public CQueue() {

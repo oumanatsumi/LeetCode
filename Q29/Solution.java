@@ -1,6 +1,6 @@
 package Q29;
 
-public class Solution {
+class Solution {
     public int divide(int dividend, int divisor) {
         // 考虑被除数为最小值的情况
         if (dividend == Integer.MIN_VALUE) {

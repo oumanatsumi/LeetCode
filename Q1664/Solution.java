@@ -1,6 +1,6 @@
 package Q1664;
 
-public class Solution {
+class Solution {
     public int waysToMakeFair(int[] nums) {
         int n = nums.length,n1 = n / 2,n2;
         if(n == 1) return 1;

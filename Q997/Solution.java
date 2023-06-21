@@ -3,7 +3,7 @@ package Q997;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int findJudge(int n, int[][] trust) {
         if(n==1 && trust.length==0)
         {

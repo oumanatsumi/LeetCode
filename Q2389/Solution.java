@@ -2,7 +2,7 @@ package Q2389;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int[] answerQueries(int[] nums, int[] queries) {
         Arrays.sort(nums);
         int n = nums.length;

@@ -21,7 +21,7 @@ class Node {
     }
 };
 
-public class Solution {
+class Solution {
     List<Node> nodes = new ArrayList<>();
     public Node treeToDoublyList(Node root) {
         if(root == null) return null;

@@ -1,6 +1,6 @@
 package Q6360;
 
-public class Solution {
+class Solution {
     public int minImpossibleOR(int[] nums) {
 //        int res = nums[0], n = nums.length;
 //        for(int i = 1;i<n;i++){

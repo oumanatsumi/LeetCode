@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public double[] dicesProbability(int n) {
         int[] map = new int[67];
         for (int j = 1; j <= 6; j++) {

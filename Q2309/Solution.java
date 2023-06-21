@@ -2,7 +2,7 @@ package Q2309;
 
 import java.util.Locale;
 
-public class Solution {
+class Solution {
     public String greatestLetter(String s) {
         boolean[] mapLow = new boolean[26];
         boolean[] mapHigh = new boolean[26];

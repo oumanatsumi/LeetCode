@@ -3,7 +3,7 @@ package Q1710;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Solution {
+class Solution {
     public int maximumUnits(int[][] boxTypes, int truckSize) {
         Arrays.sort(boxTypes, new Comparator<int[]>() {
             @Override

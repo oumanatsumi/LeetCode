@@ -1,6 +1,6 @@
 package Q808;
 
-public class Solution {
+class Solution {
     public double soupServings(int n) {
         n = Math.min(200, (int) Math.ceil(n / 25.0));
         double[][] f = new double[n + 10][n + 10];

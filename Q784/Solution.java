@@ -3,7 +3,7 @@ package Q784;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public List<String> letterCasePermutation(String s) {
         List<String> res = new ArrayList<>();
         backTrack(res,new StringBuilder(s),0);

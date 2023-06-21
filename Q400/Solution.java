@@ -4,7 +4,7 @@ import javax.xml.parsers.SAXParser;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public int findNthDigit(int n) {
         int d = 1, count = 9;
         while (n > (long) d * count) {

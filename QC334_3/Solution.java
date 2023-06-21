@@ -2,7 +2,7 @@ package QC334_3;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     //  贪心+二分匹配的位置 超时
 //    int n ;
 //    public int maxNumOfMarkedIndices(int[] nums) {

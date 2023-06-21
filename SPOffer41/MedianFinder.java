@@ -3,7 +3,7 @@ package SPOffer41;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class MedianFinder {
+class MedianFinder {
     PriorityQueue<Integer> pqLow;
     PriorityQueue<Integer> pqHigh;
     int lowCnt = 0;

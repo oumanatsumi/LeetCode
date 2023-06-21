@@ -1,6 +1,6 @@
 package Q1790;
 
-public class Solution {
+class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
         int[] map = new int[26];
         int diffCnt = 0;

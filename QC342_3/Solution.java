@@ -1,6 +1,6 @@
 package QC342_3;
 
-public class Solution {
+class Solution {
     public int[] getSubarrayBeauty(int[] nums, int k, int x) {
         int[] map = new int[101];
         int n = nums.length;

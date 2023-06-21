@@ -3,7 +3,7 @@ package Q6176;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int mostFrequentEven(int[] nums) {
         Map<Integer,Integer> map = new HashMap<>();
         for(int i :nums){

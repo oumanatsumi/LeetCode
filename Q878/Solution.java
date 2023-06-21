@@ -1,6 +1,6 @@
 package Q878;
 
-public class Solution {
+class Solution {
     static final int MOD = 1000000007;
 
     public int nthMagicalNumber(int n, int a, int b) {

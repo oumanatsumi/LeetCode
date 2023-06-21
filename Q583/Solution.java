@@ -1,6 +1,6 @@
 package Q583;
 
-public class Solution {
+class Solution {
     public int minDistance(String word1, String word2) {
         int length1 = word1.length();
         int length2 = word2.length();

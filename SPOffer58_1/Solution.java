@@ -2,7 +2,7 @@ package SPOffer58_1;
 
 import java.util.StringJoiner;
 
-public class Solution {
+class Solution {
     public String reverseWords(String s) {
         StringBuilder sb = new StringBuilder();
         String[] strings = s.trim().split("\\s+");

@@ -2,7 +2,7 @@ package SPOffer3;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int findRepeatNumber(int[] nums) {
         for(int i =0;i<nums.length;i++){
             while (nums[i] != i){

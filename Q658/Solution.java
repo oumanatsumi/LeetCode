@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
         int[] arr_ = new int [arr.length];
         int min = Integer.MAX_VALUE;

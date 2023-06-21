@@ -1,6 +1,6 @@
 package Q1653;
 
-public class Solution {
+class Solution {
     public int minimumDeletions(String s) {
         int n = s.length();
         int[] a = new int[n];

@@ -1,6 +1,6 @@
 package Q1796;
 
-public class Solution {
+class Solution {
     public int secondHighest(String s) {
         int[] map = new int[10];
         for(char c: s.toCharArray()){

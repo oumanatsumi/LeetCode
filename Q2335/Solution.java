@@ -2,7 +2,7 @@ package Q2335;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int fillCups(int[] amount) {
         int cnt = 0;
         Arrays.sort(amount);

@@ -1,7 +1,7 @@
 package Q807;
 
 
-public class Solution {
+class Solution {
     public int maxIncreaseKeepingSkyline(int[][] grid) {
         int len = grid.length;
         int[] skylineR = new int[len];

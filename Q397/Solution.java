@@ -3,7 +3,7 @@ package Q397;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     Map<Long, Integer> map = new HashMap<>();
     public int integerReplacement(int n) {
         return dfs(n*1L);

@@ -1,6 +1,6 @@
 package Q1769;
 
-public class Solution {
+class Solution {
     public int[] minOperations(String boxes) {
         int n = boxes.length();
         int[] cnt = new int[n];

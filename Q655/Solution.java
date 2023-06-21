@@ -22,7 +22,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     int row, col, height = 0;
 
     public List<List<String>> printTree(TreeNode root) {

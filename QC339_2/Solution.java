@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.IntStream;
 
-public class Solution {
+class Solution {
     public List<List<Integer>> findMatrix(int[] nums) {
         int n = nums.length;
         int[] cnt = new int[n+1];

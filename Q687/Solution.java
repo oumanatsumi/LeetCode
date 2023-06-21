@@ -19,7 +19,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     int res =0;
     public int longestUnivaluePath(TreeNode root) {
         dfs(root);

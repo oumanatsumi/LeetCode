@@ -2,7 +2,7 @@ package Q775;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     int totalReverseCnt = 0;
 
     public boolean isIdealPermutation(int[] nums) {

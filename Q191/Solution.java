@@ -1,6 +1,6 @@
 package Q191;
 
-public class Solution {
+class Solution {
     // you need to treat n as an unsigned value
     public int hammingWeight(int n) {
         int res = 0;

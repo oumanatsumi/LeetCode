@@ -1,6 +1,6 @@
 package Q1605;
 
-public class Solution {
+class Solution {
     public int[][] restoreMatrix(int[] rowSum, int[] colSum) {
         int m = rowSum.length;
         int n = colSum.length;

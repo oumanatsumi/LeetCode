@@ -1,6 +1,6 @@
 package Q6248;
 
-public class Solution {
+class Solution {
     public int countSubarrays(int[] nums, int k) {
         int n = nums.length;
         int midIndex = -1;

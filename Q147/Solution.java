@@ -1,7 +1,7 @@
 package Q147;
 
-public class Solution {
-    public class ListNode {
+class Solution {
+    class ListNode {
         int val;
         ListNode next;
 

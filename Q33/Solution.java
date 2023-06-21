@@ -1,6 +1,6 @@
 package Q33;
 
-public class Solution {
+class Solution {
     public int search(int[] nums, int target) {
         int n = nums.length, l = 0, r = n-1, mid;
         // 难点，第一次二分，为了找到分界点

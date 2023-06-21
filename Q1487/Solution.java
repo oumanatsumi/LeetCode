@@ -3,7 +3,7 @@ package Q1487;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
 
     public String[] getFolderNames(String[] names) {
         Map<String, Integer> d = new HashMap<>();

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class Solution {
+class Solution {
     public int minOperations(int[] nums) {
         int n = nums.length;
         // 判断能否全变为1:

@@ -3,7 +3,7 @@ package Q1906;
 import java.util.Arrays;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int[] minDifference(int[] nums, int[][] queries) {
         int n = nums.length;
         int[][] sum = new int[n][101];

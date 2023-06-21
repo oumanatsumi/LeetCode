@@ -1,6 +1,6 @@
 package Q434;
 
-public class Solution {
+class Solution {
     public int countSegments(String s) {
         if(s.equals(""))
         {

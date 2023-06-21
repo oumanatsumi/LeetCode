@@ -1,6 +1,6 @@
 package Q6283;
 
-public class Solution {
+class Solution {
     public int maximumCount(int[] nums) {
         int posCnt = 0, negCnt = 0;
         for (int i = 0; i < nums.length; i++) {

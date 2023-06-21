@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public long[] distance(int[] nums) {
         int n = nums.length;
         long[] arr1 = new long[n];

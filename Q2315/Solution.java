@@ -1,6 +1,6 @@
 package Q2315;
 
-public class Solution {
+class Solution {
     public int countAsterisks(String s) {
         boolean flag = true;
         int cnt = 0;

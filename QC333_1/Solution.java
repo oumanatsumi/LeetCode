@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
         Map<Integer, Integer> map = new HashMap<>();
         for(int [] num1 :nums1){

@@ -1,6 +1,6 @@
 package Q122;
 
-public class Solution {
+class Solution {
     // 贪心
 //    public int maxProfit(int[] prices) {
 //        int n = prices.length,res = 0;

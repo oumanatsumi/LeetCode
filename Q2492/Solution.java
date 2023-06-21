@@ -50,7 +50,7 @@ class UnionFind {
 }
 
 
-public class Solution {
+class Solution {
     public int minScore(int n, int[][] roads) {
         UnionFind unionFind = new UnionFind(n+10);
         Arrays.sort(roads, new Comparator<int[]>() {

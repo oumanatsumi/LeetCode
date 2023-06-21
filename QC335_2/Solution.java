@@ -21,7 +21,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
         PriorityQueue<Long> priorityQueue = new PriorityQueue<>(new Comparator<Long>() {
             @Override

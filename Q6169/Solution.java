@@ -3,7 +3,7 @@ package Q6169;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
 
     public int longestNiceSubarray(int[] nums) {
         int max = 1;

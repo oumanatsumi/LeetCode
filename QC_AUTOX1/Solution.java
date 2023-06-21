@@ -1,6 +1,6 @@
 package QC_AUTOX1;
 
-public class Solution {
+class Solution {
     public int getLengthOfWaterfallFlow(int num, int[] block) {
         int[] capacity = new int[num];
         int minIndex = 0;

@@ -1,6 +1,6 @@
 package SPOffer14_2;
 
-public class Solution {
+class Solution {
     public int cuttingRope(int n) {
         if(n <= 3) return n-1;
         if(n % 3 == 0) return quickMod(3,n /3);

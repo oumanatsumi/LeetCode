@@ -1,6 +1,6 @@
 package Q2397;
 
-public class Solution {
+class Solution {
     public int maximumRows(int[][] mat, int cols) {
        int m = mat.length,n = mat[0].length;
        if(n == cols){

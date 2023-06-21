@@ -1,6 +1,6 @@
 package Q2491;
 
-public class Solution {
+class Solution {
     public long dividePlayers(int[] skill) {
         long totalSkill = 0;
         int n = skill.length;

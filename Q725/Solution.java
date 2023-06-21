@@ -7,7 +7,7 @@ import java.util.List;
  * Definition for singly-linked list.
  */
 
-public class Solution {
+class Solution {
 
         public ListNode[] splitListToParts(ListNode head, int k) {
             int n = 0;

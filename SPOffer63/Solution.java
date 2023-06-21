@@ -1,6 +1,6 @@
 package SPOffer63;
 
-public class Solution {
+class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
         if(n == 0) return 0;

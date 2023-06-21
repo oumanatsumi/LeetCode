@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * @author Ouma Natsumi
  */
-public class Solution {
+class Solution {
 
     public int kthSmallest(TreeNode root, int k) {
         List<Integer> nums = new ArrayList<Integer>();

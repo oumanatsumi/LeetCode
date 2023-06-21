@@ -1,6 +1,6 @@
 package Q2486;
 
-public class Solution {
+class Solution {
     public int appendCharacters(String s, String t) {
         int slen = s.length(), tlen = t.length();
         int s1 =0,t1 = 0;

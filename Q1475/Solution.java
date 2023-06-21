@@ -2,7 +2,7 @@ package Q1475;
 
 import java.util.Stack;
 
-public class Solution {
+class Solution {
     public int[] finalPrices(int[] prices) {
         Stack<Integer> stack= new Stack<>();
         int[] ans = new int[prices.length];

@@ -1,6 +1,6 @@
 package Q1816;
 
-public class Solution {
+class Solution {
 
     public String truncateSentence(String s, int k) {
         String[] ss = s.split(" ");

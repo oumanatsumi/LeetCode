@@ -3,14 +3,13 @@ package Q211;
 import java.util.ArrayList;
 import java.util.List;
 
-import Q208.Trie;
 /**
  * @author Ouma Natsumi
  */
 
 //超时了
 
-//public class WordDictionary {
+//class WordDictionary {
 //
 //    private List<String> dic;
 //    public WordDictionary() {

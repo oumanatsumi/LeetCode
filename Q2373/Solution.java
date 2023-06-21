@@ -2,7 +2,7 @@ package Q2373;
 
 import java.util.stream.IntStream;
 
-public class Solution {
+class Solution {
     public int[][] largestLocal(int[][] grid) {
         int n = grid.length;
         int[][] res = new int[n-2][n-2];

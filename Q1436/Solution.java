@@ -3,7 +3,7 @@ package Q1436;
 import javax.swing.plaf.synth.SynthUI;
 import java.util.*;
 
-public class Solution {
+class Solution {
     public String destCity(List<List<String>> paths) {
         String res="";
         Map<String,Integer> map = new HashMap<String, Integer>();

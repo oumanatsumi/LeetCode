@@ -1,6 +1,6 @@
 package QC344_3;
 
-public class Solution {
+class Solution {
     public int[] colorTheArray(int n, int[][] queries) {
         int[] ans = new int[queries.length];
         int[] colors = new int[n];

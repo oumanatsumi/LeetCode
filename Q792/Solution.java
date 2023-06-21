@@ -1,6 +1,6 @@
 package Q792;
 
-public class Solution {
+class Solution {
     // TLE
 //    public int numMatchingSubseq(String s, String[] words) {
 //        int res = 0;

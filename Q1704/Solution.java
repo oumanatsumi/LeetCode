@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public boolean halvesAreAlike(String s) {
         int n = s.length();
         Character[] chars = {'a','e','i','o','u','A','E','I','O','U'};

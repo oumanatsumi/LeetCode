@@ -2,7 +2,7 @@ package Q1619;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public double trimMean(int[] arr) {
         Arrays.sort(arr);
         int deleteLength = (int)(arr.length * 0.05);

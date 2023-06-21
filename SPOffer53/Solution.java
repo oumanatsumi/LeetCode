@@ -1,6 +1,6 @@
 package SPOffer53;
 
-public class Solution {
+class Solution {
     // 暴力
     public int search(int[] nums, int target) {
         int ans = 0;

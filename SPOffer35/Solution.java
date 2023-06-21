@@ -14,7 +14,7 @@ class Node {
         this.random = null;
     }
 }
-public class Solution {
+class Solution {
 //    Map<Node,Node> nodeMap = new HashMap<>();
 //    public Node copyRandomList(Node head) {
 //        if(head == null) return null;

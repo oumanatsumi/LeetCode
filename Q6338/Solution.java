@@ -1,6 +1,6 @@
 package Q6338;
 
-public class Solution {
+class Solution {
     public int monkeyMove(int n) {
         int MOD = 1000000007;
         long res = quickMod(2,n,MOD);

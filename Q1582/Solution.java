@@ -3,7 +3,7 @@ package Q1582;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     //直接开造
     public int numSpecial(int[][] mat) {
         int rows = mat.length,cols = mat[0].length;

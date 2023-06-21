@@ -7,7 +7,7 @@ package SPOffer55_1;
       TreeNode(int x) { val = x; }
   }
 
-public class Solution {
+class Solution {
    public int maxDepth(TreeNode root) {
       return root == null ? 0 : Math.max(maxDepth(root.left)+1,maxDepth(root.right)+1);
    }

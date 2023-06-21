@@ -9,7 +9,7 @@ class ListNode {
       }
   }
 
-public class Solution {
+class Solution {
     ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode lA = headA, lB = headB;
         while (lA != null || lB != null){

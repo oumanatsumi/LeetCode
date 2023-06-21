@@ -3,7 +3,7 @@ package Q1641;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int countVowelStrings(int n) {
         int[] end = new int[5];
         Arrays.fill(end, 1);

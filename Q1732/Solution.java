@@ -1,6 +1,6 @@
 package Q1732;
 
-public class Solution {
+class Solution {
     public int largestAltitude(int[] gain) {
         int max = 0;
         int cur = 0;

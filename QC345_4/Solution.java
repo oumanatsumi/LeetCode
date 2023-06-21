@@ -2,7 +2,7 @@ package QC345_4;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     class UnionFind{
         int[] parent;// parent[i]表示i这个元素指向的父亲节点
         int[] size;//size[i]表示以i为根节点的集合中元素个数

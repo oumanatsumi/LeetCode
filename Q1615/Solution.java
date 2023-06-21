@@ -3,7 +3,7 @@ package Q1615;
 import java.util.Arrays;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int maximalNetworkRank(int n, int[][] roads) {
         int[][] map = new int[n][n];
         int[] cnt = new int[n];

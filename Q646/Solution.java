@@ -2,7 +2,7 @@ package Q646;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int findLongestChain(int[][] pairs) {
         int cur = Integer.MIN_VALUE,cnt = 0;
         Arrays.sort(pairs, (a,b) -> a[1] - b[1]);

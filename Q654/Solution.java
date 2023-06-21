@@ -19,7 +19,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     public TreeNode constructMaximumBinaryTree(int[] nums) {
         TreeNode root = new TreeNode();
         return dfs(root,nums,0,nums.length-1);

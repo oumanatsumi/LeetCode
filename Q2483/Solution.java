@@ -1,6 +1,6 @@
 package Q2483;
 
-public class Solution {
+class Solution {
     public int bestClosingTime(String customers) {
         int n = customers.length();
         int[] log = new int[n];

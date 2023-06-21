@@ -1,6 +1,6 @@
 package Q6229;
 
-public class Solution {
+class Solution {
     public int[] applyOperations(int[] nums) {
         int [] res = new int[nums.length];
         for (int i = 1; i < nums.length; i++) {

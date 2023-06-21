@@ -3,7 +3,7 @@ package Q1608;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     public int specialArray(int[] nums) {
         Integer[] arr = Arrays.stream(nums).boxed().toArray(Integer[]::new);
         Arrays.sort(arr,Collections.reverseOrder());

@@ -2,7 +2,7 @@ package SPOffer30;
 
 import java.util.Stack;
 
-public class MinStack {
+class MinStack {
     Stack<Integer> stack;
     Stack<Integer> assistStack;
     /** initialize your data structure here. */

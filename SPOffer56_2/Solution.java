@@ -1,6 +1,6 @@
 package SPOffer56_2;
 
-public class Solution {
+class Solution {
     public int singleNumber(int[] nums) {
         int[] bit = new int[32];
         int n = nums.length;

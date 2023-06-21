@@ -1,6 +1,6 @@
 package Q1822;
 
-public class Solution {
+class Solution {
     public int arraySign(int[] nums) {
         int negativeCnt = 0;
         for(int i:nums){

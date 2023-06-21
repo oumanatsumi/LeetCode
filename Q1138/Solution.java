@@ -1,6 +1,6 @@
 package Q1138;
 
-public class Solution {
+class Solution {
     public String alphabetBoardPath(String target) {
         StringBuilder sb = new StringBuilder();
         int x =0,y = 0, tarX = 0, tarY = 0;

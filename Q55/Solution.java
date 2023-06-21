@@ -1,6 +1,6 @@
 package Q55;
 
-public class Solution {
+class Solution {
     public boolean canJump(int[] nums) {
         int index = nums.length-2;
         int target = nums.length-1;

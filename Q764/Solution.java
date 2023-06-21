@@ -2,7 +2,7 @@ package Q764;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int orderOfLargestPlusSign(int n, int[][] mines) {
         boolean[][] martix = new boolean[n][n];
         for (int i = 0; i < n; i++) {

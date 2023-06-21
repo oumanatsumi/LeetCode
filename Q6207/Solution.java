@@ -1,6 +1,6 @@
 package Q6207;
 
-public class Solution {
+class Solution {
     public long countSubarrays(int[] nums, int minK, int maxK) {
         int i0 = -1,minI = -1, maxI = -1;
         long ans = 0L;

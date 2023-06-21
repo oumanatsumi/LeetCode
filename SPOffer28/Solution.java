@@ -10,7 +10,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     public boolean isSymmetric(TreeNode root) {
         return dfs(root,root);
     }

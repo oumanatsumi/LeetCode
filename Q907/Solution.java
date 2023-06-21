@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 
 
-public class Solution {
+class Solution {
     private static final int mod = 1000000007;
     /**
      * 单调栈解法

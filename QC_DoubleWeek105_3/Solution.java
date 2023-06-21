@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public long maxStrength(int[] nums) {
         long res = 1l;
         if(nums.length == 1) return nums[0];

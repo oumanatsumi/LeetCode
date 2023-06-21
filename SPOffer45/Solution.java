@@ -3,7 +3,7 @@ package SPOffer45;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Solution {
+class Solution {
     public String minNumber(int[] nums) {
         String[] ns = new String[nums.length];
         for(int i = 0;i<ns.length;i++){

@@ -1,4 +1,4 @@
-package LeetCode.Q229;
+package Q229;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * @author Ouma Natsumi
  */
-public class Solution {
+class Solution {
 //    public List<Integer> majorityElement(int[] nums) {
 //        List<Integer> res = new ArrayList<Integer>();
 //        Map<Integer, Integer> map = new HashMap<Integer, Integer>();

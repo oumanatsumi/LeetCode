@@ -2,7 +2,7 @@ package Q6230;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
         int n = nums.length;
         int[] map = new int[100001];

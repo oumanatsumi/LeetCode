@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class Solution {
+class Solution {
     public boolean strongPasswordCheckerII(String password) {
         Boolean[] conditions = {false,false,false,false,false};
         String temp = "!@#$%^&*()-+";

@@ -1,6 +1,6 @@
 package Q1779;
 
-public class Solution {
+class Solution {
     public int nearestValidPoint(int x, int y, int[][] points) {
         int minDis = Integer.MAX_VALUE, minIndex = -1;
         for (int i = 0; i < points.length; i++) {

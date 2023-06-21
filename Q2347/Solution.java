@@ -1,6 +1,6 @@
 package Q2347;
 
-public class Solution {
+class Solution {
     public String bestHand(int[] ranks, char[] suits) {
         boolean flag1 = true;
         for (int i = 1; i < 5 ; i++) {

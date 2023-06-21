@@ -4,7 +4,7 @@ package Q73;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
 
     public void setZeroes(int[][] matrix) {
         int m = matrix.length,n = matrix[0].length;

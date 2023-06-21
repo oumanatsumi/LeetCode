@@ -3,7 +3,7 @@ package QC333_3;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
 //    public int squareFreeSubsets(int[] nums) {
 //        List<Integer> newList = new ArrayList<>();
 //        for(int i:nums){

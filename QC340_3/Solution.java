@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
 
-public class Solution {
+class Solution {
     public int minimizeMax(int[] nums, int p) {
         int n = nums.length;
         Arrays.sort(nums);

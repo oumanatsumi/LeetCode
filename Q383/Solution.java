@@ -1,6 +1,6 @@
 package Q383;
 
-public class Solution {
+class Solution {
 
     public boolean canConstruct(String ransomNote, String magazine) {
         int[] maga = new int[26];

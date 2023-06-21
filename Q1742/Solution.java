@@ -1,6 +1,6 @@
 package Q1742;
 
-public class Solution {
+class Solution {
     public int countBalls(int lowLimit, int highLimit) {
         int[] cnt = new int[50];
         for (int i = lowLimit; i <=highLimit ; i++) {

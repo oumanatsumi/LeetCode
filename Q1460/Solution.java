@@ -1,6 +1,6 @@
 package Q1460;
 
-public class Solution {
+class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
         int[] map = new int[1001];
         for (int i : target) {

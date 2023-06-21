@@ -7,7 +7,7 @@ import java.util.List;
  * @author Ouma Natsumi
  */
 
-public class Solution {
+class Solution {
 
     //先来个常规做法
 

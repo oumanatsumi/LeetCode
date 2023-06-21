@@ -2,7 +2,7 @@ package Q1247;
 
 import java.util.stream.Stream;
 
-public class Solution {
+class Solution {
     public int minimumSwap(String s1, String s2) {
         int x1=0,x2=0,y1=0,y2=0,len = s1.length();
         for (int i = 0; i < len; i++) {

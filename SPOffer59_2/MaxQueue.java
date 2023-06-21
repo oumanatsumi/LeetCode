@@ -3,7 +3,7 @@ package SPOffer59_2;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class MaxQueue {
+class MaxQueue {
     Deque<Integer> deque = new LinkedList<>();
     Deque<Integer> singleDeque = new LinkedList<>();
     public MaxQueue() {

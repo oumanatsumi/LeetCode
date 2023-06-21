@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public int translateNum(int num) {
         if(num == 0) return 1;
         List<Integer> nums = new ArrayList<>();

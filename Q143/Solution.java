@@ -12,7 +12,7 @@ class ListNode {
     }
 }
 
-public class Solution {
+class Solution {
     public void reorderList(ListNode head) {
         ListNode l1 = head;
         ArrayList<ListNode> listNodes = new ArrayList<>();

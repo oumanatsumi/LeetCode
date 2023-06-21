@@ -1,6 +1,6 @@
 package SPOffer16;
 
-public class Solution {
+class Solution {
     public double myPow(double x, int n) {
         if(x == 1.0f || x == 0.0f) return x;
         if(x == -1.0f) {

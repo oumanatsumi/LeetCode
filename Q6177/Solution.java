@@ -3,7 +3,7 @@ package Q6177;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     public int partitionString(String s) {
         int cnt = 1;
         Set<Character> set = new HashSet<>();

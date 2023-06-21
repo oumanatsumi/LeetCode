@@ -3,7 +3,7 @@ package Q859;
 import java.net.Socket;
 import java.util.*;
 
-public class Solution {
+class Solution {
     public boolean buddyStrings(String s, String goal) {
         if(s.length()==1 || s.length()!= goal.length())
         {

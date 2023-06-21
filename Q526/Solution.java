@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     int res = 0;
     public int countArrangement(int n) {
         int[] nums = new int[n];

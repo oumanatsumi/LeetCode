@@ -3,7 +3,7 @@ package QC337_4;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Solution {
+class Solution {
     public int findSmallestInteger(int[] nums, int value) {
         int n = nums.length;
         Map<Integer,Integer> map = new TreeMap<>();

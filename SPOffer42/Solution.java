@@ -1,6 +1,6 @@
 package SPOffer42;
 
-public class Solution {
+class Solution {
     public int maxSubArray(int[] nums) {
         int n = nums.length;
         int[] dp = new int[n];

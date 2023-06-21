@@ -1,6 +1,6 @@
 package Q36;
 
-public class Solution {
+class Solution {
     public boolean isValidSudoku(char[][] board) {
         int len = 9;
 

@@ -2,7 +2,7 @@ package QC332_2;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public long countFairPairs(int[] nums, int lower, int upper) {
         Arrays.sort(nums);
         int n = nums.length;

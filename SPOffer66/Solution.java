@@ -1,6 +1,6 @@
 package SPOffer66;
 
-public class Solution {
+class Solution {
     public int[] constructArr(int[] a) {
         int n = a.length;
         int[] left = new int[n];

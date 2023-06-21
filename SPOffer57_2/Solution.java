@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Solution {
+class Solution {
     // 方法一 ：数学
 //    public int[][] findContinuousSequence(int target) {
 //        List<int[]> resList = new ArrayList<>();

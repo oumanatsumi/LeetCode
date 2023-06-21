@@ -9,7 +9,7 @@ class ListNode {
     }
 }
 
-public class Solution {
+class Solution {
     public ListNode getKthFromEnd(ListNode head, int k) {
         int n = 1;
         ListNode h = head;

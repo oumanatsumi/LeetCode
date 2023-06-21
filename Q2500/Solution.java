@@ -2,7 +2,7 @@ package Q2500;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int deleteGreatestValue(int[][] grid) {
         for(int[] row: grid){
             Arrays.sort(row);

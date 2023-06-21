@@ -1,6 +1,6 @@
 package QC345_2;
 
-public class Solution {
+class Solution {
     public boolean doesValidArrayExist(int[] derived) {
         int cur = 0, n = derived.length;
         for (int i = 0; i < n; i++) {

@@ -12,7 +12,7 @@ class ListNode {
     }
 }
 
-public class Solution {
+class Solution {
     public int[] reversePrint(ListNode head) {
         List<Integer> list = new ArrayList<>();
         while (head != null) {

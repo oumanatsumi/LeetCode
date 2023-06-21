@@ -3,7 +3,7 @@ package Q1604;
 import java.util.*;
 import java.util.jar.JarEntry;
 
-public class Solution {
+class Solution {
     public List<String> alertNames(String[] keyName, String[] keyTime) {
 //        Set<String> nameSet = new HashSet<>();
 //        for(String name : keyName){

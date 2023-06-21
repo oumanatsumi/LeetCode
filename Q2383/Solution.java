@@ -1,6 +1,6 @@
 package Q2383;
 
-public class Solution {
+class Solution {
     public int minNumberOfHours(int initialEnergy, int initialExperience, int[] energy, int[] experience) {
         int n = energy.length;
         int requireEnergy = energy[n - 1] + 1;

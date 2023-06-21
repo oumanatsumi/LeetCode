@@ -3,7 +3,7 @@ package Q816;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public List<String> ambiguousCoordinates(String s) {
         String ss = s.substring(1,s.length()-1);
         int n = ss.length();

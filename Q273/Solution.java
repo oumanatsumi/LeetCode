@@ -3,7 +3,7 @@ package Q273;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public String numberToWords(int num) {
         if(num == 0)
         {

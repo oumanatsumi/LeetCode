@@ -1,6 +1,6 @@
 package Q503;
 
-public class Q503 {
+class Q503 {
     public int[] nextGreaterElements(int[] nums) {
         int size=nums.length;
         int[] res= new int[size];

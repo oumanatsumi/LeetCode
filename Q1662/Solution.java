@@ -3,7 +3,7 @@ package Q1662;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-public class Solution {
+class Solution {
 //    public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
 //        int aLen = word1.length,bLen = word2.length;
 //        int aIndex=0,bIndex=0,p1=0,p2=0;

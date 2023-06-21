@@ -12,7 +12,7 @@ class ListNode {
       }
 }
 
-public class Solution {
+class Solution {
 
     public boolean hasCycle(ListNode head) {
         Set<ListNode> set = new HashSet<>();

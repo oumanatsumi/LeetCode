@@ -2,7 +2,7 @@ package QC337_3;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
 //    public int beautifulSubsets(int[] nums, int k) {
 //        int n = nums.length;
 //        if(n == 1) return 1;

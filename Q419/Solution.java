@@ -1,6 +1,6 @@
 package Q419;
 
-public class Solution {
+class Solution {
     public int countBattleships(char[][] board) {
         int res=0;
         for(int i=0;i<board.length;i++)

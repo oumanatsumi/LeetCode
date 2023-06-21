@@ -3,7 +3,7 @@ package Q1637;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Solution {
+class Solution {
     public int maxWidthOfVerticalArea(int[][] points) {
         Arrays.sort(points, new Comparator<int[]>() {
             @Override

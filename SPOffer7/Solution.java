@@ -3,7 +3,7 @@ package SPOffer7;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     class TreeNode {
         int val;
         TreeNode left;

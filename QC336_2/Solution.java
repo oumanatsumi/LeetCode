@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.stream.IntStream;
 
-public class Solution {
+class Solution {
     public int maxScore(int[] nums) {
         Arrays.sort(nums);
         long sum = 0;

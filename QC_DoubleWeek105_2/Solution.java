@@ -3,7 +3,7 @@ package QC_DoubleWeek105_2;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     Set<String> set = new HashSet<>();
     int min = Integer.MAX_VALUE;
     public int minExtraChar(String s, String[] dictionary) {

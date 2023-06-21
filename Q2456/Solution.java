@@ -3,7 +3,7 @@ package Q2456;
 import java.util.*;
 
 
-public class Solution {
+class Solution {
     static class Creator{
         String name;
         int maxViews;

@@ -2,7 +2,7 @@ package Q1798;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int getMaximumConsecutive(int[] coins) {
         Arrays.sort(coins);
         int x = 0;

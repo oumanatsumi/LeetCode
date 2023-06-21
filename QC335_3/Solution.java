@@ -2,7 +2,7 @@ package QC335_3;
 
 import java.math.BigInteger;
 
-public class Solution {
+class Solution {
 
     public int findValidSplit(int[] nums) {
         int n = nums.length,split = 0;

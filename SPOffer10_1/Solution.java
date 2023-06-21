@@ -1,6 +1,6 @@
 package SPOffer10_1;
 
-public class Solution {
+class Solution {
     public int fib(int n) {
         // Timeout
 //        if(n == 0) return 0;

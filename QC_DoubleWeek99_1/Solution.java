@@ -3,7 +3,7 @@ package QC_DoubleWeek99_1;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int splitNum(int num) {
         int[] map = new int[10];
         while (num > 0){

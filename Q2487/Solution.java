@@ -11,7 +11,7 @@ class ListNode {
       ListNode(int val, ListNode next) { this.val = val; this.next = next; }
   }
 
-public class Solution {
+class Solution {
     public ListNode removeNodes(ListNode head) {
         List<Integer> list = new ArrayList<>();
         ListNode l1 = head;

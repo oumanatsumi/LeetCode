@@ -3,7 +3,7 @@ package QC350_3;
 import java.util.*;
 
 
-public class Solution {
+class Solution {
 
     /**
      * 方法一：多个哈希表+记忆化搜索

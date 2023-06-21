@@ -3,7 +3,7 @@ package Q78;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     List<List<Integer>> res = new ArrayList<>();
 
     public void backTrack(List<Integer> tmp, int[] nums, int index){

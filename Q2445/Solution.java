@@ -1,6 +1,6 @@
 package Q2445;
 
-public class Solution {
+class Solution {
     public int averageValue(int[] nums) {
         int sum = 0,cnt = 0;
         for(int i :nums){

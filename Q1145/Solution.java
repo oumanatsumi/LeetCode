@@ -19,7 +19,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     TreeNode firstPlayer;
     public boolean btreeGameWinningMove(TreeNode root, int n, int x) {
         search(root, x);

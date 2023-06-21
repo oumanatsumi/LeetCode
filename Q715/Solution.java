@@ -1,6 +1,6 @@
 package Q715;
 
-public class Solution {
+class Solution {
     public int maxProfit(int[] prices, int fee) {
         int n = prices.length;
         int[][] dp = new int[n][2];

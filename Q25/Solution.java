@@ -12,7 +12,7 @@ class ListNode {
 }
 
 
-public class Solution {
+class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode l1 = head;
         ArrayList<ListNode> listNodes = new ArrayList<>();

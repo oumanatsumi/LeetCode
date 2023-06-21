@@ -3,7 +3,7 @@ package SPOffer57_1;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     public int[] twoSum(int[] nums, int target) {
         int midCnt = 0, n = nums.length;
         Set<Integer> set = new HashSet<>();

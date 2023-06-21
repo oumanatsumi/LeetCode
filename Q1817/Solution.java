@@ -2,7 +2,7 @@ package Q1817;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
 
     public int[] findingUsersActiveMinutes(int[][] logs, int k) {
         Map<Integer, Set<Integer>> map = new HashMap<>();

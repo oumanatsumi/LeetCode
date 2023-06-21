@@ -1,6 +1,6 @@
 package Q2414;
 
-public class Solution {
+class Solution {
     public int longestContinuousSubstring(String s) {
         char[] cs = s.toCharArray();
         int ans = 1;

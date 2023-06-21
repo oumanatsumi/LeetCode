@@ -1,6 +1,6 @@
 package Q709;
 
-public class Solution {
+class Solution {
     public String toLowerCase(String s) {
         String res ="";
         for(char c :s.toCharArray())

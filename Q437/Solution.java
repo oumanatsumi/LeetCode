@@ -15,7 +15,7 @@ class TreeNode {
 
 
 
-public class Solution {
+class Solution {
 
     public int pathSum(TreeNode root, int targetSum) {
         if(root == null)

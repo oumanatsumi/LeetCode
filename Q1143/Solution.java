@@ -1,6 +1,6 @@
 package Q1143;
 
-public class Solution {
+class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         int length1 = text1.length();
         int length2 = text2.length();

@@ -1,6 +1,6 @@
 package Q2319;
 
-public class Solution {
+class Solution {
     public boolean checkXMatrix(int[][] grid) {
         int size = grid.length;
         for (int i = 0; i < size; i++) {

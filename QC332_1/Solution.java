@@ -1,6 +1,6 @@
 package QC332_1;
 
-public class Solution {
+class Solution {
     public long findTheArrayConcVal(int[] nums) {
         int left = 0,right = nums.length-1;
         long res = 0L;

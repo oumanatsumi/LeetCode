@@ -3,7 +3,7 @@ package Q166;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public String fractionToDecimal(int numerator, int denominator) {
         long numeratorLong = (long) numerator;
         long denominatorLong = (long) denominator;

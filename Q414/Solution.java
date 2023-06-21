@@ -3,7 +3,7 @@ package Q414;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Solution {
+class Solution {
 
     //倒序排序搜索
 //    public int thirdMax(int[] nums) {

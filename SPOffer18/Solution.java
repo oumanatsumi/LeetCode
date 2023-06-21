@@ -9,7 +9,7 @@ class ListNode {
     }
 }
 
-public class Solution {
+class Solution {
     public ListNode deleteNode(ListNode head, int val) {
         ListNode h = new ListNode(-1);
         h.next = head;

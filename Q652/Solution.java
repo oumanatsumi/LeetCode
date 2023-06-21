@@ -25,7 +25,7 @@ class TreeNode {
 }
 
 
-public class Solution {
+class Solution {
     List<TreeNode> ans = new ArrayList<>();
     Map<String, Integer> map = new HashMap<>();
 

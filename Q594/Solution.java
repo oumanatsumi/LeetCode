@@ -3,7 +3,7 @@ package Q594;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
 
     public int findLHS(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();

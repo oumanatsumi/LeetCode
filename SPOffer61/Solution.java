@@ -2,7 +2,7 @@ package SPOffer61;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public boolean isStraight(int[] nums) {
         int[] map = new int[14];
         int n = nums.length;

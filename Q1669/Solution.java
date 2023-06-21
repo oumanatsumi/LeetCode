@@ -19,7 +19,7 @@ class ListNode {
 }
 
 
-public class Solution {
+class Solution {
     public ListNode mergeInBetween(ListNode list1, int a, int b, ListNode list2) {
         ListNode left = null, right = null, cur = list1;
         int curIndex = 0;

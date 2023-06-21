@@ -1,6 +1,6 @@
 package SPOffer56_1;
 
-public class Solution {
+class Solution {
     public int[] singleNumbers(int[] nums) {
         int xny = 0, n = nums.length;
         for (int i = 0; i < n; i++) {

@@ -1,6 +1,6 @@
 package Q35;
 
-public class Solution {
+class Solution {
     public int searchInsert(int[] nums, int target) {
         int left = 0,right =nums.length-1;
         while(left<=right)

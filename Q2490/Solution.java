@@ -1,6 +1,6 @@
 package Q2490;
 
-public class Solution {
+class Solution {
     public boolean isCircularSentence(String sentence) {
         String[] ss = sentence.split(" ");
         char temp = ss[0].charAt(ss[0].length()-1);

@@ -2,7 +2,7 @@ package Q1129;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     public int[] shortestAlternatingPaths(int n, int[][] redEdges, int[][] blueEdges) {
         List<Integer>[] redLines = new List[n];
         List<Integer>[] blueLines = new List[n];

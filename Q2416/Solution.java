@@ -2,7 +2,7 @@ package Q2416;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int[] sumPrefixScores(String[] words) {
         int n = words.length;
         char[][] cs = new char[n][];

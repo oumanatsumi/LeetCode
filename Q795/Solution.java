@@ -3,7 +3,7 @@ package Q795;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class Solution {
+class Solution {
     // 单调栈解法
 //    public int numSubarrayBoundedMax(int[] nums, int left, int right) {
 //        Deque<Integer> dq = new LinkedList<>();

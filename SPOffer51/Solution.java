@@ -3,7 +3,7 @@ package SPOffer51;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Solution {
+class Solution {
 
     /**
      *      方法一： 归并排序（自下而上）

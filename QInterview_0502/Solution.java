@@ -1,6 +1,6 @@
 package QInterview_0502;
 
-public class Solution {
+class Solution {
     public String printBin(double num) {
         StringBuilder sb = new StringBuilder("0.");
         while(sb.length() <=32 ){

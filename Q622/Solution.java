@@ -21,7 +21,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     //    public int widthOfBinaryTree(TreeNode root) {
 ////        Queue<TreeNode> queue = new LinkedList<>();
 //        Map<TreeNode,Long> numMap = new HashMap<>();

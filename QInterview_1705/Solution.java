@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public String[] findLongestSubarray(String[] array) {
         int n = array.length, letterCnt = 0, numCnt = 0;
         int curDiff = 0, max = 0, left = 0,right = 0;

@@ -1,6 +1,6 @@
 package QC340_1;
 
-public class Solution {
+class Solution {
     public int diagonalPrime(int[][] nums) {
         int n = nums.length;
         int max = 0;

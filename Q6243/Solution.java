@@ -7,7 +7,7 @@ import java.util.List;
 
 
 
-public class Solution {
+class Solution {
     class TreeNode {
         int val;
         List<TreeNode> linked = new ArrayList<>();

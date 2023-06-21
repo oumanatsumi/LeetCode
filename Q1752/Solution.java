@@ -2,7 +2,7 @@ package Q1752;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public boolean check(int[] nums) {
         int n = nums.length;
         boolean point = false;

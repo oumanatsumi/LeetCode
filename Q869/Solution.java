@@ -6,7 +6,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public boolean reorderedPowerOf2(int n) {
         List<List<Integer>> nums = new ArrayList<List<Integer>>();
         int base = 1;

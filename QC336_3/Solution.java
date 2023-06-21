@@ -3,7 +3,7 @@ package QC336_3;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public long beautifulSubarrays(int[] nums) {
         int n = nums.length;
         if(n == 1) return nums[0] == 0 ? 1 : 0;

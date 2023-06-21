@@ -22,7 +22,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     List<List<Integer>> ans = new ArrayList<>();
     List<Integer> temp = new ArrayList<>();
     public List<List<Integer>> pathSum(TreeNode root, int target) {

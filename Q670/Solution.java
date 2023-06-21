@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int maximumSwap(int num) {
         int n = num;
         if(num <= 11) return num;

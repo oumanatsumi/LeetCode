@@ -3,7 +3,7 @@ package Q2367;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     public int arithmeticTriplets(int[] nums, int diff) {
         int n = nums.length;
         Set<Integer> set = new HashSet<>();

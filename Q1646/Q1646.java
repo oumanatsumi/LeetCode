@@ -1,6 +1,6 @@
 package Q1646;
 
-public class Q1646 {
+class Q1646 {
     public static int getMaximumGenerated(int n) {
         int[] res = new int[n+1];
         res[0]=0;

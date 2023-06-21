@@ -1,6 +1,6 @@
 package QC342_2;
 
-public class Solution {
+class Solution {
     public int sumOfMultiples(int n) {
         int ans = 0;
         for (int i = 1; i <= n; i++) {

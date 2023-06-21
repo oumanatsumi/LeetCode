@@ -1,6 +1,6 @@
 package SPOffer13;
 
-public class Solution {
+class Solution {
     int res = 0;
     public int movingCount(int m, int n, int k) {
         boolean[][] stats = new boolean[m][n];

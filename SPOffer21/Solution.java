@@ -1,6 +1,6 @@
 package SPOffer21;
 
-public class Solution {
+class Solution {
     public int[] exchange(int[] nums) {
         int n = nums.length;
         int l  = 0, r = n -1 ;

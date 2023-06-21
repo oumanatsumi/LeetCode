@@ -2,7 +2,7 @@ package Q6168;
 
 import java.math.BigInteger;
 
-public class Solution {
+class Solution {
     public int numberOfWays(int startPos, int endPos, int k) {
         int left = 0,right =0;
         int dirc = endPos - startPos;

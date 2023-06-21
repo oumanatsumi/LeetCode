@@ -3,7 +3,7 @@ package Q592;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public String fractionAddition(String expression) {
 
         int i= 0;

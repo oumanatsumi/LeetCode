@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     class stu{
         String name;
         int height;

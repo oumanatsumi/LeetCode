@@ -3,7 +3,7 @@ package Q6219;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public boolean sumOfNumberAndReverse(int num) {
         for(int i = 0;i<= num;i++){
             if(reverse(i) + i == num){

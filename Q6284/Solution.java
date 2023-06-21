@@ -2,7 +2,7 @@ package Q6284;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public boolean isItPossible(String word1, String word2) {
         int[] w1Dic = new int[26];
         int[] w2Dic = new int[26];

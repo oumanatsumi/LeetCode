@@ -3,7 +3,7 @@ package QC331_3;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Solution {
+class Solution {
     public int minCapability(int[] nums, int k) {
         int n = nums.length;
         if(n == 1) return nums[0];

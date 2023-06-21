@@ -2,7 +2,7 @@ package Q66;
 
 
 
-public class Solution {
+class Solution {
     public int[] plusOne(int[] digits) {
         int index = digits.length - 1;
         boolean carry = false;

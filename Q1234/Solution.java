@@ -3,7 +3,7 @@ package Q1234;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public int balancedString(String s) {
         int len = s.length();
         int n = len / 4;

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public List<Integer> circularPermutation(int n, int start) {
         List<Integer> cur = new ArrayList<>();
         cur.add(0);

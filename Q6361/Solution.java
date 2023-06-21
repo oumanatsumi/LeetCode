@@ -2,7 +2,7 @@ package Q6361;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int minimizeSum(int[] nums) {
         Arrays.sort(nums);
         int n =  nums.length;

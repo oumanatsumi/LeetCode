@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class Solution {
+class Solution {
     public int[] loudAndRich(int[][] richer, int[] quiet) {
         int len = quiet.length;
         List<Integer>[] q = new List[len];

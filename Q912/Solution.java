@@ -2,7 +2,7 @@ package Q912;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
 
     /**
      *  快速排序

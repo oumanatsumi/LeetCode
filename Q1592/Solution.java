@@ -1,6 +1,6 @@
 package Q1592;
 
-public class Solution {
+class Solution {
     public String reorderSpaces(String text) {
         String[] words = text.trim().split("\\s+");
         int spaceCnt = 0;

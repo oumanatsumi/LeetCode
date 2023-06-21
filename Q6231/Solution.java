@@ -2,7 +2,7 @@ package Q6231;
 
 import java.util.PriorityQueue;
 
-public class Solution {
+class Solution {
     public long totalCost(int[] costs, int k, int candidates) {
         long res = 0;
         int n = costs.length;

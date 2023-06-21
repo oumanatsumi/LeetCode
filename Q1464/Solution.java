@@ -1,6 +1,6 @@
 package Q1464;
 
-public class Solution {
+class Solution {
     public int maxProduct(int[] nums) {
         int max = -1,second = -2;
         for(int i:nums){

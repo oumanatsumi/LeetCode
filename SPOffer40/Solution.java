@@ -2,7 +2,7 @@ package SPOffer40;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int[] getLeastNumbers(int[] arr, int k) {
         if(arr.length<=k) return arr;
         partition(arr,0,arr.length-1,k);

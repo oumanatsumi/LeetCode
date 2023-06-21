@@ -5,7 +5,7 @@ import java.util.TreeMap;
 /**
  * @author Ouma Natsumi
  */
-public class Trie {
+class Trie {
     private Trie[] children;
     private boolean isEnd;
 

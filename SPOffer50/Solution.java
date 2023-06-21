@@ -1,6 +1,6 @@
 package SPOffer50;
 
-public class Solution {
+class Solution {
     public char firstUniqChar(String s) {
         int[] cnt = new int[26];
         for(char c : s.toCharArray()){

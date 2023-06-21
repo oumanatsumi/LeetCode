@@ -1,6 +1,6 @@
 package QC344_4;
 
-public class Solution {
+class Solution {
     public int minIncrements(int n, int[] cost) {
         int size = (n + 1) / 2;
         int depth = 0, tmp = 1;

@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author Ouma Natsumi
  */
-public class Solution {
+class Solution {
     public int distributeCandies(int[] candyType) {
         Set<Integer> set = new HashSet<>();
         for(int candy:candyType)

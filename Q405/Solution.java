@@ -4,7 +4,7 @@ import java.beans.BeanInfo;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public String toHex(int num) {
         String res = "";
         boolean flag = num >= 0;

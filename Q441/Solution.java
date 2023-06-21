@@ -1,6 +1,6 @@
 package Q441;
 
-public class Solution {
+class Solution {
 
 
     //超时了

@@ -1,6 +1,6 @@
 package Q1828;
 
-public class Solution {
+class Solution {
     public int[] countPoints(int[][] points, int[][] queries) {
         int qLen = queries.length;
         int pointNum = points.length;

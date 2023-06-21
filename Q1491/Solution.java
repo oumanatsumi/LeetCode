@@ -1,6 +1,6 @@
 package Q1491;
 
-public class Solution {
+class Solution {
     public double average(int[] salary) {
         int total = 0;
         int max = Math.max(salary[0],salary[1]);

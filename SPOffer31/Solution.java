@@ -2,7 +2,7 @@ package SPOffer31;
 
 import java.util.Stack;
 
-public class Solution {
+class Solution {
     public boolean validateStackSequences(int[] pushed, int[] popped) {
         int n = popped.length;
         Stack<Integer> stack = new Stack<>();

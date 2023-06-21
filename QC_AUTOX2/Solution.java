@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Solution {
+class Solution {
     public double[] honeyQuotes(int[][] handle) {
         Map<Integer,Integer> map = new HashMap<>();
         List<Double> ansList = new ArrayList<>();

@@ -3,7 +3,7 @@ package Q476;
 /**
  * @author OumaNatsumi
  */
-public class Solution
+class Solution
 {
     public int findComplement(int num)
     {

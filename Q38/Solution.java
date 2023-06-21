@@ -4,7 +4,7 @@ package Q38;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
 
     public String countAndSay(int n) {
         List<String> list = new ArrayList<String>();

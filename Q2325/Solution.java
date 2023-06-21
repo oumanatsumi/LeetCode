@@ -2,7 +2,7 @@ package Q2325;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public String decodeMessage(String key, String message) {
         int[] map = new int[26];
         Arrays.fill(map,-1);

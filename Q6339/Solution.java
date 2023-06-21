@@ -2,7 +2,7 @@ package Q6339;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
 
     // 方法1:深搜 TLE
 

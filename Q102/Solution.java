@@ -15,7 +15,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     //DFS
     // BFS在剑指offer32-2
 

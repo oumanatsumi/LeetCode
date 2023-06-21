@@ -2,7 +2,7 @@ package Q318;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
 
     public int maxProduct(String[] words) {
         int max=0;

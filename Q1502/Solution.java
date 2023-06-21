@@ -2,7 +2,7 @@ package Q1502;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
         int dis = arr[1] - arr[0];

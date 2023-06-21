@@ -1,6 +1,6 @@
 package SPOffer4;
 
-public class Solution {
+class Solution {
     public int minArray(int[] numbers) {
         int left = 0, right = numbers.length-1;
         if(numbers[left] < numbers [right]) return numbers[left];

@@ -11,7 +11,7 @@ class TreeNode {
 
 // 方法一： 递归求出路径
 
-//public class Solution {
+//class Solution {
 //    List<TreeNode> pPath = new ArrayList<>();
 //    List<TreeNode> qPath = new ArrayList<>();
 //    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {

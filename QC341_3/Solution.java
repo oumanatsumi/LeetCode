@@ -1,6 +1,6 @@
 package QC341_3;
 
-public class Solution {
+class Solution {
 
     public int addMinimum(String word) {
         int stat = 0; // 0a1b2c

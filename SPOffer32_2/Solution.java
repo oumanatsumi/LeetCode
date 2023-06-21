@@ -14,7 +14,7 @@ class TreeNode {
         val = x;
     }
 }
-public class Solution {
+class Solution {
     // BFS
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();

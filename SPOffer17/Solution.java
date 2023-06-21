@@ -1,6 +1,6 @@
 package SPOffer17;
 
-public class Solution {
+class Solution {
     public int[] printNumbers(int n) {
         int cnt = (int) Math.pow(10,n)-1;
         int[] res = new int[cnt];

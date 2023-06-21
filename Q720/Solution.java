@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     public String longestWord(String[] words) {
         Arrays.sort(words, (a, b) ->  {
             if (a.length() != b.length()) {

@@ -1,4 +1,4 @@
-package LeetCode.Q412;
+package Q412;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,10 +6,10 @@ import java.util.List;
 /**
  * @author Ouma Natsumi
  */
-public class Solution {
+class Solution {
 
     public List<String> fizzBuzz(int n) {
-        List<String> res = new ArrayList<String>();
+        List<String> res = new ArrayList<>();
         for(int i =1;i<=n;i++)
         {
             String resTemp="";

@@ -1,6 +1,6 @@
 package SPOffer58_2;
 
-public class Solution {
+class Solution {
     public String reverseLeftWords(String s, int n) {
         StringBuilder sb = new StringBuilder(s);
         String move = s.substring(0,n);

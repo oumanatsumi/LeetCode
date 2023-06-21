@@ -1,6 +1,6 @@
 package Q2396;
 
-public class Solution {
+class Solution {
     public boolean isStrictlyPalindromic(int n) {
         for (int i = 2; i <= n-2 ; i++) {
             if(!check(calc(n,i))){

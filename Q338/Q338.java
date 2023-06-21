@@ -3,7 +3,7 @@ package Q338;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Q338 {
+class Q338 {
     public static int[] countBits(int num) {
         List<Integer> numList=new ArrayList<Integer>();
         numList.add(0);

@@ -19,7 +19,7 @@ class TreeNode {
     }
 }
 
-public class Solution {
+class Solution {
     int[] nodeHeight = new int[100001];
     TreeNode[] nodes = new TreeNode[100001];
     int[] res = new int[100001];

@@ -1,6 +1,6 @@
 package QC334_2;
 
-public class Solution {
+class Solution {
     public int[] divisibilityArray(String word, int m) {
         long y = 0;
         int[] ans = new int[word.length()];

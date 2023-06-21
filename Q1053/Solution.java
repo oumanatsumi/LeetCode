@@ -1,6 +1,6 @@
 package Q1053;
 
-public class Solution {
+class Solution {
     public int[] prevPermOpt1(int[] arr) {
         int n = arr.length;
         if(n == 1) return arr;

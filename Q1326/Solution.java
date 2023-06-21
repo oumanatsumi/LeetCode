@@ -1,6 +1,6 @@
 package Q1326;
 
-public class Solution {
+class Solution {
     public int minTaps(int n, int[] ranges) {
         // 对于每一个左断点，找到能覆盖到最右的范围， 记到reach数组
         int[] reach = new int[n+1];

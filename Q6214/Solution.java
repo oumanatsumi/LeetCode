@@ -1,6 +1,6 @@
 package Q6214;
 
-public class Solution {
+class Solution {
     public boolean haveConflict(String[] event1, String[] event2) {
         int startTime1Hour = Integer.parseInt(event1[0].substring(0,2));
         int startTime1Min = Integer.parseInt(event1[0].substring(3,5));

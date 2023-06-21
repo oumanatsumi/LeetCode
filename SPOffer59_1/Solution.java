@@ -3,7 +3,7 @@ package SPOffer59_1;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class Solution {
+class Solution {
 
     // 方法1 ： 优先队列
 //    public int[] maxSlidingWindow(int[] nums, int k) {

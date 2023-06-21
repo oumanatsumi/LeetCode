@@ -2,7 +2,7 @@ package QC350_2;
 
 import java.util.Arrays;
 
-public class Solution {
+class Solution {
     public int findValueOfPartition(int[] nums) {
         Arrays.sort(nums);
         int res = Integer.MAX_VALUE;

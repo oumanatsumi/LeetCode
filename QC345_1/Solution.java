@@ -3,7 +3,7 @@ package QC345_1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public int[] circularGameLosers(int n, int k) {
         boolean[] win = new boolean[n];
         int cur = 0,  round = 1;

@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Solution {
+class Solution {
 //    public int[][] substringXorQueries(String s, int[][] queries) {
 //        int[][] ans = new int[queries.length][2];
 //        boolean flag;

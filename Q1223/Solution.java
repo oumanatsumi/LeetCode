@@ -1,6 +1,6 @@
 package Q1223;
 
-public class Solution {
+class Solution {
     public int dieSimulator(int n, int[] rollMax) {
         int MOD = 1000000007;
         int[][] dp = new int[n+1][7];

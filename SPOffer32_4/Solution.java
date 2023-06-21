@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
 
-public class Solution {
+class Solution {
 //    public int[] sumPrefixScores(String[] words) {
 //        if(words.length == 1){
 //            return new int[]{words[0].length()};
