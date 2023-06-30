@@ -27,6 +27,7 @@ class Trie {
         node.isEnd = true;
     }
 
+    // 查找
     public boolean search(String word) {
         Trie nodeEnd = searchPrefix(word);
         return nodeEnd != null && nodeEnd.isEnd;

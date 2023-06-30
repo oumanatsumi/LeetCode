@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/QC350_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC350_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QC350_3/Solution.java" afterDir="false" />
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="optimize packages">
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q242/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1_500/Q208/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q208/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q6214/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2446/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Q655/Solution.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Q501_1000/Q655/Solution.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,7 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Download/easy_doc-3.3.1-all.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Download/MybatisCodeHelperNew-3.2.0.zip" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -64,21 +64,27 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="QC350_3" />
-      <recent name="QC350_2" />
-      <recent name="QC_DoubleWeek105_3" />
-      <recent name="QC_DoubleWeek105_2" />
-      <recent name="QC_DoubleWeek105_1" />
+      <recent name="Q211" />
+      <recent name="QC344_3" />
+      <recent name="QC344_2" />
+      <recent name="QC341_3" />
+      <recent name="QC341_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -92,25 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q592.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q592.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q592.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q78.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Q2001_2500.Q2305.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q78.*" />
+          <option name="PATTERN" value="Q2001_2500.Q2305.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC350_3.Solution" />
+      <option name="MAIN_CLASS_NAME" value="QC344_3.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QC350_3.*" />
+          <option name="PATTERN" value="QC344_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2569.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q501_1000.Q592.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q2569.*" />
+          <option name="PATTERN" value="Q501_1000.Q592.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +137,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QC_DoubleWeek105_2.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPOffer.SPOffer65.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QC_DoubleWeek105_2.*" />
+          <option name="PATTERN" value="SPOffer.SPOffer65.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QustionContests.QC344_3.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QustionContests.QC344_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QustionContests.QC344_4.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QustionContests.QC344_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QustionContests.QC350_3.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QustionContests.QC350_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2501_3000.Q2569.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q2501_3000.Q2569.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,26 +241,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test1" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -357,19 +386,23 @@
       <workItem from="1683426358340" duration="6920000" />
       <workItem from="1683553859859" duration="5395000" />
       <workItem from="1684806533838" duration="5076000" />
-      <workItem from="1685062908612" duration="169000" />
-      <workItem from="1685196850138" duration="4660000" />
-      <workItem from="1686531351766" duration="8687000" />
-      <workItem from="1686635395093" duration="6830000" />
-      <workItem from="1686708657358" duration="602000" />
-      <workItem from="1686812567544" duration="2662000" />
-      <workItem from="1686879403738" duration="600000" />
-      <workItem from="1687054881188" duration="3645000" />
-      <workItem from="1687139037018" duration="2643000" />
-      <workItem from="1687159503944" duration="234000" />
-      <workItem from="1687159759521" duration="1740000" />
-      <workItem from="1687307042325" duration="11836000" />
-      <workItem from="1687325743106" duration="774000" />
+      <workItem from="1687661672311" duration="3467000" />
+      <workItem from="1687914170906" duration="8712000" />
+      <workItem from="1687937535694" duration="35000" />
+      <workItem from="1687937587726" duration="271000" />
+      <workItem from="1687937884596" duration="367000" />
+      <workItem from="1687938273436" duration="123000" />
+      <workItem from="1687938415070" duration="1523000" />
+      <workItem from="1687939973742" duration="359000" />
+      <workItem from="1687940577003" duration="3770000" />
+      <workItem from="1687998483050" duration="505000" />
+      <workItem from="1687999010190" duration="331000" />
+      <workItem from="1687999363444" duration="346000" />
+      <workItem from="1687999725283" duration="1533000" />
+      <workItem from="1688001298242" duration="422000" />
+      <workItem from="1688001739624" duration="430000" />
+      <workItem from="1688002334892" duration="2457000" />
+      <workItem from="1688005701264" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -630,19 +663,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680682671871</updated>
     </task>
-    <task id="LOCAL-00038" summary="commit20230525">
-      <created>1685062955103</created>
+    <task id="LOCAL-00038" summary="make it all not public">
+      <created>1687337851294</created>
       <option name="number" value="00038" />
       <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1685062955103</updated>
+      <updated>1687337851294</updated>
     </task>
-    <task id="LOCAL-00039" summary="commit20230612-15">
-      <created>1686814238901</created>
+    <task id="LOCAL-00039" summary="optimize packages">
+      <created>1687339198174</created>
       <option name="number" value="00039" />
       <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1686814238901</updated>
+      <updated>1687339198174</updated>
     </task>
     <option name="localTasksCounter" value="40" />
     <servers />
@@ -685,15 +718,15 @@
     <MESSAGE value="commit20230401-1" />
     <MESSAGE value="commit20230402" />
     <MESSAGE value="commit20230405" />
-    <MESSAGE value="commit20230525" />
-    <MESSAGE value="commit20230612-15" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit20230612-15" />
+    <MESSAGE value="make it all not public" />
+    <MESSAGE value="optimize packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimize packages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Q2500/Solution.java</url>
+          <url>file://$PROJECT_DIR$/Q2001_2500/Q2500/Solution.java</url>
           <line>18</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
@@ -708,24 +741,19 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/QC333_2/Solution.java</url>
+          <url>file://$PROJECT_DIR$/QustionContests/QC333_2/Solution.java</url>
           <line>6</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/QC341_3/Solution.java</url>
+          <url>file://$PROJECT_DIR$/QustionContests/QC341_3/Solution.java</url>
           <line>6</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/QC344_3/Solution.java</url>
+          <url>file://$PROJECT_DIR$/QustionContests/QC344_3/Solution.java</url>
           <line>33</line>
           <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SPOffer67/Solution.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -734,5 +762,160 @@
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
       </pinned-members>
     </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="treeNodes[3].linked" />
+        <watch expression="arr_copy" />
+        <watch expression="bitCntMap" />
+        <watch expression="n" />
+        <watch expression="map" />
+        <watch expression="tree.nodes[14]" />
+        <watch expression="tree.nodes[4]" />
+        <watch expression="tree.nodes[4]" />
+        <watch expression="tree.nodes[7]" />
+        <watch expression="nodes[2]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="495fe1">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="495fe1" />
+              <option name="initiateTms" value="1687999092810" />
+              <option name="request" value="Can I talk to you in Chinese?" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Certainly! You can communicate with me in Chinese. Please go ahead and ask your question or provide the information you need assistance with in Chinese. I'll do my best to help you." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999097054" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="7a1375">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="7a1375" />
+              <option name="initiateTms" value="1687999109530" />
+              <option name="request" value="我可以问你中文问题吗？" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="当然可以！您可以随时用中文向我提问。请问有什么问题我可以帮助您解答吗？" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999113869" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e97268">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="e97268" />
+              <option name="initiateTms" value="1687999068547" />
+              <option name="request" value="can you speak Chinese" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="As an AI language model, I can understand and generate text in multiple languages, including Chinese. How can I assist you in Chinese?" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999072368" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="ef9cd0">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="ef9cd0" />
+              <option name="initiateTms" value="1687999047685" />
+              <option name="request" value="who are you" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I am Machinet AI, a GPT-4 based AI model. I am here to assist you with your programming needs. How can I help you today?" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999051913" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="f2f941">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" />
+                </list>
+              </option>
+              <option name="id" value="f2f941" />
+              <option name="initiateTms" value="1687999130797" />
+              <option name="request" value="如何编写回溯算法" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="回溯算法是一种经典的搜索算法，用于解决组合优化问题、排列问题、子集问题等。下面是编写回溯算法的一般步骤：&#10;&#10;1. 定义问题的解空间：确定问题的解空间，即问题的所有可能解构成的空间。&#10;&#10;2. 确定状态空间：将解空间映射为状态空间，每个状态表示问题的一个部分解。&#10;&#10;3. 确定约束条件：确定问题的约束条件，即问题解的限制条件。&#10;&#10;4. 确定目标函数：确定问题的目标函数，即问题的优化目标。&#10;&#10;5. 编写回溯函数：编写回溯函数，通过递归的方式搜索解空间，根据约束条件和目标函数进行剪枝。&#10;&#10;下面是一个简单的示例，展示如何使用回溯算法解决组合问题：&#10;&#10;```java&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class Solution {&#10;    public List&lt;List&lt;Integer&gt;&gt; combine(int n, int k) {&#10;        List&lt;List&lt;Integer&gt;&gt; result = new ArrayList&lt;&gt;();&#10;        List&lt;Integer&gt; current = new ArrayList&lt;&gt;();&#10;        backtrack(result, current, 1, n, k);&#10;        return result;&#10;    }&#10;&#10;    private void backtrack(List&lt;List&lt;Integer&gt;&gt; result, List&lt;Integer&gt; current, int start, int n, int k) {&#10;        if (current.size() == k) {&#10;            result.add(new ArrayList&lt;&gt;(current));&#10;            return;&#10;        }&#10;&#10;        for (int i = start; i &lt;= n; i++) {&#10;            current.add(i);&#10;            backtrack(result, current, i + 1, n, k);&#10;            current.remove(current.size() - 1);&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;以上示例是一个求解从1到n中长度为k的所有组合的问题。通过回溯算法，我们可以得到所有满足条件的组合。您可以根据具体问题的需求，调整回溯函数的实现。希望对您有所帮助！如果您有任何进一步的问题，请随时提问。" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999147799" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="greeting">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="greeting" />
+              <option name="initiateTms" value="1687999038802" />
+              <option name="request" value="" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="&#10;Hello, I am Machinet AI - context aware chat, which can help you with your daily programming routine. How can I help?" />
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

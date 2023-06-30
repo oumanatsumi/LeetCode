@@ -4,390 +4,165 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
+    <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="optimize packages">
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q242/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q473/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q102/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q102/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1053/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1053/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1108/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1108/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1124/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1124/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1129/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1129/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1138/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1138/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1143/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1143/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1144/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1144/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1145/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1145/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q121/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q121/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1218/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1218/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q122/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q122/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1223/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1223/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q123/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q123/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1234/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1234/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1238/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1238/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1247/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1247/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1326/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1326/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1331/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1331/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q141/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q141/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q143/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q143/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1436/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1436/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1455/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1455/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1460/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1460/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1464/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1464/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q147/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q147/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1475/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1475/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1487/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1487/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1491/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1001_1500/Q1491/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1502/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1502/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1518/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1518/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1523/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1523/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1582/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1582/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1590/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1590/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1592/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1592/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1598/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1598/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1604/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1604/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1605/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1605/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1608/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1608/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1615/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1615/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1619/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1619/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1637/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1637/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1641/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1641/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1646/Q1646.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1646/Q1646.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1653/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1653/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q166/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q166/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1662/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1662/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1663/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1663/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1664/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1664/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1668/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1668/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1669/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1669/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1678/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1678/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1684/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1684/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1704/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1704/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1710/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1710/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1732/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1732/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1742/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1742/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1752/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1752/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1769/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1769/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1779/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1779/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1790/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1790/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1792/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1792/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1796/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1796/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1797/AuthenticationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1797/AuthenticationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1798/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1798/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1816/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1816/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1817/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1817/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1822/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1822/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1824/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1824/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1827/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1827/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1828/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1828/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q187/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q187/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q188/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q188/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1906/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1501_2000/Q1906/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q191/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q191/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q198/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q198/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q208/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q211/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q211/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q208/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q211/WordDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q211/WordDictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q223/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q223/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q229/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q229/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2299/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2299/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q23/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q23/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q230/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q230/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q230/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q230/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2303/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2303/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2305/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2309/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2309/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2315/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2315/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2319/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2319/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2325/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2325/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2331/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2331/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2335/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2335/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2341/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2341/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2347/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2347/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2357/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2357/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2363/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2363/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2367/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2367/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q237/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q237/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q237/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q237/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2373/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2373/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2383/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2383/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2389/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2389/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2395/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2395/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2396/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2396/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2397/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2397/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2413/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2413/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2414/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2414/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2415/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2415/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2416/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2416/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2427/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2427/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2439/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2439/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2445/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2445/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2456/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2456/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2457/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2457/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2458/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2458/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2469/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2469/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2481/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2481/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2482/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2482/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2483/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2483/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2485/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2485/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2486/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2486/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2487/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2487/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2488/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2488/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2490/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2490/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2491/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2491/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2492/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2492/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q25/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q25/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2500/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2500/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2501/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2501/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2569/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2569/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q260/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q260/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q268/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q268/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q273/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q273/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q282/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q282/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q284/PeekingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q284/PeekingIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q29/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q29/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q307/MySegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q307/MySegmentTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q307/MySegmentTreePlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q307/MySegmentTreePlus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q307/NumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q307/NumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q308/NumMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q308/NumMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q309/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q309/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q318/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q318/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q319/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q319/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q326/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q326/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q33/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q33/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q338/Q338.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q338/Q338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q34/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q34/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q35/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q35/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q352/SummaryRanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q352/SummaryRanges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q36/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q36/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q367/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q367/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q371/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q371/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q38/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q38/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q383/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q383/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q384/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q384/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q391/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q391/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q397/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q397/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q400/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q400/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q405/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q405/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q412/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q412/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q414/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q414/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q419/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q419/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q423/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q423/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q430/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q430/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q434/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q434/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q437/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q437/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q441/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q441/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q453/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q453/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q46/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q46/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q47/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q47/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q476/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q476/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q482/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q482/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q49/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q49/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q492/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q492/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q496/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q496/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q5/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q500/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q500/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q503/Q503.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q503/Q503.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q517/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q517/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q520/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q520/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q526/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q526/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q55/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q55/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q559/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q559/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q563/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q563/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q563/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q563/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q575/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q575/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q58/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q58/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q583/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q583/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q589/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q589/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q592/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q592/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q594/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q594/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q598/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q598/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6167/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2399/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6168/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2400/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6169/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2401/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6176/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2404/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6177/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2405/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6178/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2406/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6188/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2418/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6189/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2419/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6190/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2420/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6204/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2441/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q622/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q622/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q63/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q63/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q64/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q64/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q646/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q646/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q652/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q652/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q654/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q654/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q655/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q655/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q658/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q658/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q66/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q66/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q670/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q670/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q672/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q672/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q687/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q687/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q70/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q70/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q709/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q709/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q715/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q715/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q720/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q720/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q725/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q725/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q725/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q725/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q73/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q73/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q764/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q764/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q775/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q775/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q78/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q78/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q784/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q784/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q792/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q792/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q795/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q795/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q799/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q799/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q807/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q807/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q808/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q808/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q816/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q816/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q828/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q828/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q851/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q851/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q852/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q852/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q859/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q859/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q862/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q862/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q869/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q869/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q878/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q878/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q88/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q88/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q907/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q907/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q91/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q91/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q911/TopVotedCandidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q911/TopVotedCandidate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q912/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q912/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q946/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q946/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q976/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q976/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q997/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q997/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q998/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q501_1000/Q998/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC331_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC331_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC331_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC331_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC331_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC331_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC332_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC332_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC332_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC332_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC332_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC332_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC333_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC333_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC333_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC333_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC333_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC333_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC334_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC334_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC334_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC334_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC334_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC334_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC335_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC335_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC335_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC335_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC335_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC335_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC335_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC335_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC336_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC336_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC336_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC336_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC336_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC336_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC337_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC337_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC337_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC337_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC337_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC337_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC337_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC337_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC338_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC338_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC338_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC338_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC338_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC338_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC338_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC338_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC339_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC339_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC339_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC339_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC339_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC339_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC340_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC340_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC340_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC340_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC340_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC340_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC341_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC341_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC341_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC341_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC341_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC341_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC342_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC342_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC342_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC342_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC342_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC342_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC342_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC342_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC344_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC344_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC344_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC344_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC344_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC344_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC344_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC344_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC345_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC345_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC345_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC345_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC345_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC345_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC345_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC345_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC350_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC350_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC350_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC350_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC350_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC350_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_AUTOX1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_AUTOX1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_AUTOX2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_AUTOX2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_DoubleWeek105_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_DoubleWeek105_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_DoubleWeek105_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_DoubleWeek105_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_DoubleWeek105_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_DoubleWeek105_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_DoubleWeek99_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_DoubleWeek99_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_DoubleWeek99_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_DoubleWeek99_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QC_DoubleWeek99_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC_DoubleWeek99_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer10_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer10_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer10_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer10_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer11/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer11/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer12/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer12/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer13/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer13/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer14_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer14_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer14_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer14_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer15/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer15/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer16/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer16/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer17/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer17/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer18/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer18/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer19/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer19/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer20/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer20/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer21/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer21/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer22/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer22/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer24/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer24/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer25/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer25/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer26/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer26/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer27/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer27/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer28/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer28/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer29/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer29/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer30/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer30/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer31/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer31/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer32_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer32_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer32_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer32_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer32_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer32_3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer32_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer32_4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer33/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer33/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer34/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer34/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer35/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer35/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer36/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer36/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer37/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer37/Codec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer38/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer38/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer39/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer39/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer40/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer40/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer41/MedianFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer41/MedianFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer42/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer42/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer45/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer45/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer46/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer46/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer47/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer47/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer48/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer48/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer49/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer49/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer5/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer50/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer50/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer51/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer51/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer52/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer52/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer53/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer53/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer54/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer54/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer55_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer55_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer55_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer55_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer56_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer56_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer56_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer56_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer57_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer57_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer57_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer57_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer58_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer58_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer58_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer58_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer59_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer59_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer59_2/MaxQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer59_2/MaxQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer6/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer60/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer60/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer61/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer61/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer62/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer62/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer63/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer63/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer64/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer64/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer65/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer65/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer66/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer66/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer67/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer67/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer68_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer68_1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer68_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer68_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer7/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer7/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPOffer9/CQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/SPOffer/SPOffer9/CQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1_500/Q208/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q208/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q6214/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2446/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Q229/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Q412/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q102/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q102/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1143/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1218/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1331/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1436/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1455/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1460/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1464/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q147/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1475/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1491/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1502/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1518/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1523/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1582/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1592/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1598/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1608/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1619/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1646/Q1646.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q166/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1779/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1790/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1816/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1822/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q187/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1906/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q191/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q198/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q208/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q211/WordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q223/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q230/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q230/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q237/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q237/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2413/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2414/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2415/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2415/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q2416/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q260/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q268/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q273/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q282/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q284/PeekingIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q29/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q318/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q319/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q326/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q338/Q338.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q35/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q352/SummaryRanges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q36/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q367/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q371/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q38/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q383/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q384/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q391/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q397/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q4/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q400/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q405/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q414/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q419/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q423/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q430/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q434/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q437/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q441/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q453/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q46/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q47/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q476/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q482/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q492/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q496/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q5/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q500/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q503/Q503.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q517/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q520/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q526/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q559/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q559/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q563/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q575/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q58/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q583/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q589/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q589/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q592/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q594/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q598/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6167/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6168/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6169/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6176/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6177/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6178/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution$stu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6188/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6189/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6190/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6204/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6205/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6207/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6214/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q622/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q622/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q646/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q652/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q652/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q654/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q654/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q655/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q655/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q658/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q66/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q670/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q672/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q687/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q687/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q70/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q709/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q720/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q725/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q725/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q73/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q807/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q828/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q851/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q852/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q859/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q862/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q869/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q88/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q907/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q91/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q911/TopVotedCandidate.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -434,7 +209,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Download/jr-ide-intellij-2021.4.2.zip" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -443,6 +218,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -456,13 +234,32 @@
       <recent name="QC341_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Q496.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2001_2500.Q2305.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q2001_2500.Q2305.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -602,11 +399,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -748,6 +542,25 @@
       <workItem from="1683426358340" duration="6920000" />
       <workItem from="1683553859859" duration="5395000" />
       <workItem from="1684806533838" duration="5076000" />
+      <workItem from="1687661672311" duration="3467000" />
+      <workItem from="1687914170906" duration="8712000" />
+      <workItem from="1687937535694" duration="35000" />
+      <workItem from="1687937587726" duration="271000" />
+      <workItem from="1687937884596" duration="367000" />
+      <workItem from="1687938273436" duration="123000" />
+      <workItem from="1687938415070" duration="1523000" />
+      <workItem from="1687939973742" duration="359000" />
+      <workItem from="1687940577003" duration="3770000" />
+      <workItem from="1687998483050" duration="505000" />
+      <workItem from="1687999010190" duration="331000" />
+      <workItem from="1687999363444" duration="346000" />
+      <workItem from="1687999725283" duration="1533000" />
+      <workItem from="1688001298242" duration="422000" />
+      <workItem from="1688001739624" duration="430000" />
+      <workItem from="1688002334892" duration="2457000" />
+      <workItem from="1688005701264" duration="8501000" />
+      <workItem from="1688024622633" duration="2568000" />
+      <workItem from="1688084195828" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -1015,7 +828,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687337851294</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="optimize packages">
+      <created>1687339198174</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1687339198174</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1033,7 +853,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20221018" />
     <MESSAGE value="commit20221019" />
     <MESSAGE value="commit20221021" />
     <MESSAGE value="commit20221025" />
@@ -1058,7 +877,8 @@
     <MESSAGE value="commit20230402" />
     <MESSAGE value="commit20230405" />
     <MESSAGE value="make it all not public" />
-    <option name="LAST_COMMIT_MESSAGE" value="make it all not public" />
+    <MESSAGE value="optimize packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimize packages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1100,19 +920,146 @@
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="treeNodes[3].linked" />
-        <watch expression="arr_copy" />
-        <watch expression="bitCntMap" />
-        <watch expression="n" />
-        <watch expression="map" />
-        <watch expression="tree.nodes[14]" />
-        <watch expression="tree.nodes[4]" />
-        <watch expression="tree.nodes[4]" />
-        <watch expression="tree.nodes[7]" />
-        <watch expression="nodes[2]" />
-      </configuration>
-    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="495fe1">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="495fe1" />
+              <option name="initiateTms" value="1687999092810" />
+              <option name="request" value="Can I talk to you in Chinese?" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Certainly! You can communicate with me in Chinese. Please go ahead and ask your question or provide the information you need assistance with in Chinese. I'll do my best to help you." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999097054" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="7a1375">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="7a1375" />
+              <option name="initiateTms" value="1687999109530" />
+              <option name="request" value="我可以问你中文问题吗？" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="当然可以！您可以随时用中文向我提问。请问有什么问题我可以帮助您解答吗？" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999113869" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e97268">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="e97268" />
+              <option name="initiateTms" value="1687999068547" />
+              <option name="request" value="can you speak Chinese" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="As an AI language model, I can understand and generate text in multiple languages, including Chinese. How can I assist you in Chinese?" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999072368" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="ef9cd0">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+              <option name="id" value="ef9cd0" />
+              <option name="initiateTms" value="1687999047685" />
+              <option name="request" value="who are you" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="I am Machinet AI, a GPT-4 based AI model. I am here to assist you with your programming needs. How can I help you today?" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999051913" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q1_500/Q208/Trie.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="f2f941">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" />
+                </list>
+              </option>
+              <option name="id" value="f2f941" />
+              <option name="initiateTms" value="1687999130797" />
+              <option name="request" value="如何编写回溯算法" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="回溯算法是一种经典的搜索算法，用于解决组合优化问题、排列问题、子集问题等。下面是编写回溯算法的一般步骤：&#10;&#10;1. 定义问题的解空间：确定问题的解空间，即问题的所有可能解构成的空间。&#10;&#10;2. 确定状态空间：将解空间映射为状态空间，每个状态表示问题的一个部分解。&#10;&#10;3. 确定约束条件：确定问题的约束条件，即问题解的限制条件。&#10;&#10;4. 确定目标函数：确定问题的目标函数，即问题的优化目标。&#10;&#10;5. 编写回溯函数：编写回溯函数，通过递归的方式搜索解空间，根据约束条件和目标函数进行剪枝。&#10;&#10;下面是一个简单的示例，展示如何使用回溯算法解决组合问题：&#10;&#10;```java&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class Solution {&#10;    public List&lt;List&lt;Integer&gt;&gt; combine(int n, int k) {&#10;        List&lt;List&lt;Integer&gt;&gt; result = new ArrayList&lt;&gt;();&#10;        List&lt;Integer&gt; current = new ArrayList&lt;&gt;();&#10;        backtrack(result, current, 1, n, k);&#10;        return result;&#10;    }&#10;&#10;    private void backtrack(List&lt;List&lt;Integer&gt;&gt; result, List&lt;Integer&gt; current, int start, int n, int k) {&#10;        if (current.size() == k) {&#10;            result.add(new ArrayList&lt;&gt;(current));&#10;            return;&#10;        }&#10;&#10;        for (int i = start; i &lt;= n; i++) {&#10;            current.add(i);&#10;            backtrack(result, current, i + 1, n, k);&#10;            current.remove(current.size() - 1);&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;以上示例是一个求解从1到n中长度为k的所有组合的问题。通过回溯算法，我们可以得到所有满足条件的组合。您可以根据具体问题的需求，调整回溯函数的实现。希望对您有所帮助！如果您有任何进一步的问题，请随时提问。" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1687999147799" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Q2001_2500/Q2305/Solution.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="greeting">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="greeting" />
+              <option name="initiateTms" value="1687999038802" />
+              <option name="request" value="" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="&#10;Hello, I am Machinet AI - context aware chat, which can help you with your daily programming routine. How can I help?" />
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
