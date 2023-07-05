@@ -37,6 +37,6 @@ class Solution {
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        s.countSubarrays(new int[]{3,2,1,4,5},4);
+        s.countSubarrays(new int[]{3,2,1,4,5}, 4);
     }
 }

@@ -1,7 +1,7 @@
 package QustionContests.QC334_1;
 
 class Solution {
-    public int[] leftRigthDifference(int[] nums) {
+    public int[] leftRightDifference(int[] nums) {
         int n = nums.length;
         int[] leftSum = new int[n];
         int[] rightSum = new int[n];
