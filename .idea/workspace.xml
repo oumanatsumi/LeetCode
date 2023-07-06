@@ -5,36 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q278/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q300/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q39/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q74/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2501_3000/Q2679/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q501_1000/Q875/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1501_2000/Q1658/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2001_2500/Q2178/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q501_1000/Q739/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_500/Q69/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q69/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2001_2500/Q2445/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2455/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2001_2500/Q2488/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2488/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6219/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2443/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6224/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2447/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6229/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2460/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6230/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2461/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6231/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2462/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6241/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2475/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6242/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2476/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6243/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2001_2500/Q2477/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6248/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6283/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2529/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6284/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2531/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6285/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2530/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6337/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2549/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6338/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2550/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6339/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2551/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6358/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6359/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2566/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6360/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2568/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q6361/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q2501_3000/Q2567/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QustionContests/QC334_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/QustionContests/QC334_1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6219/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q6224/Solution.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +90,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -127,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_500.Q39.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2001_2500.Q2178.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q1_500.Q39.*" />
+          <option name="PATTERN" value="Q2001_2500.Q2178.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_500.Q473.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_500.Q39.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q1_500.Q473.*" />
+          <option name="PATTERN" value="Q1_500.Q39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +457,8 @@
       <workItem from="1688429548057" duration="396000" />
       <workItem from="1688429968689" duration="13573000" />
       <workItem from="1688518632023" duration="5453000" />
-      <workItem from="1688524418579" duration="7576000" />
+      <workItem from="1688524418579" duration="11894000" />
+      <workItem from="1688628055165" duration="2283000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -769,7 +747,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688374578802</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="update 20230705">
+      <created>1688539354600</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1688539354600</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -787,7 +772,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20221025" />
     <MESSAGE value="commit202210301" />
     <MESSAGE value="commit202210302" />
     <MESSAGE value="commit2022116" />
@@ -812,7 +796,8 @@
     <MESSAGE value="optimize packages" />
     <MESSAGE value="update 20230629" />
     <MESSAGE value="update 20230703" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 20230703" />
+    <MESSAGE value="update 20230705" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 20230705" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -841,6 +826,11 @@
           <url>file://$PROJECT_DIR$/QustionContests/QC344_3/Solution.java</url>
           <line>33</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q2001_2500/Q2178/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
