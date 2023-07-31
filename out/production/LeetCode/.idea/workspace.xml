@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1001_1500/Q1277/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1501_2000/Q1911/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q221/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q45/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2501_3000/Q2762/MySegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2501_3000/Q2762/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q213/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q337/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2501_3000/Q2580/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC355_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC355_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC355_3/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,11 +79,11 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="QustionContests.QC355_3" />
+      <recent name="QustionContests.QC355_2" />
       <recent name="Q2501_3000.Q2762" />
       <recent name="QustionContests.QC353_4" />
       <recent name="QustionContests.QC335_4" />
-      <recent name="QustionContests.QC353_3" />
-      <recent name="QustionContests.QC353_2" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -91,7 +92,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.Solution (6)">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -106,24 +107,11 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2001_2500.Q2178.Solution" />
+      <option name="MAIN_CLASS_NAME" value="QustionContests.QC355_1.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q2001_2500.Q2178.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QustionContests.QC353_2.Solution" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QustionContests.QC353_2.*" />
+          <option name="PATTERN" value="QustionContests.QC355_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,13 +275,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Test1" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -466,7 +467,14 @@
       <workItem from="1688956894711" duration="6155000" />
       <workItem from="1689036320669" duration="5058000" />
       <workItem from="1689120376094" duration="14777000" />
-      <workItem from="1689206752970" duration="884000" />
+      <workItem from="1689206752970" duration="18614000" />
+      <workItem from="1689662687313" duration="1053000" />
+      <workItem from="1689732861863" duration="2264000" />
+      <workItem from="1689819392033" duration="16007000" />
+      <workItem from="1689898645100" duration="3702000" />
+      <workItem from="1690077455471" duration="3312000" />
+      <workItem from="1690109955259" duration="3825000" />
+      <workItem from="1690157047554" duration="4774000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -797,7 +805,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688959463353</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="update 20230718">
+      <created>1689663147340</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1689663147340</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -815,7 +830,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20221120" />
     <MESSAGE value="commit20221127" />
     <MESSAGE value="commit202211272" />
     <MESSAGE value="commit2022123" />
@@ -840,7 +854,8 @@
     <MESSAGE value="update 20230707" />
     <MESSAGE value="update 20230707-2" />
     <MESSAGE value="update 20230710" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 20230710" />
+    <MESSAGE value="update 20230718" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 20230718" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -871,9 +886,9 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Q2501_3000/Q2762/Solution.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="43" />
+          <url>file://$PROJECT_DIR$/QustionContests/QC355_1/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
