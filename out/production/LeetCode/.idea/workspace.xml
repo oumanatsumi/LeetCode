@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LeetCode:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q213/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q337/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2501_3000/Q2580/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC355_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC355_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC355_3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q215/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q287/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1_500/Q51/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q51/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -66,10 +68,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -92,7 +94,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
@@ -119,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QustionContests.QC353_3.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_500.Q287.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QustionContests.QC353_3.*" />
+          <option name="PATTERN" value="Q1_500.Q287.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QustionContests.QC353_4.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_500.Q215.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QustionContests.QC353_4.*" />
+          <option name="PATTERN" value="Q1_500.Q215.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (6)" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +476,11 @@
       <workItem from="1689898645100" duration="3702000" />
       <workItem from="1690077455471" duration="3312000" />
       <workItem from="1690109955259" duration="3825000" />
-      <workItem from="1690157047554" duration="4774000" />
+      <workItem from="1690157047554" duration="6092000" />
+      <workItem from="1690772424639" duration="9890000" />
+      <workItem from="1690940190877" duration="1740000" />
+      <workItem from="1691456854470" duration="12524000" />
+      <workItem from="1691538977919" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="test一哈">
       <created>1661147347404</created>
@@ -812,7 +818,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689663147340</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="update 20230731">
+      <created>1690796183611</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1690796183611</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -830,7 +843,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit20221127" />
     <MESSAGE value="commit202211272" />
     <MESSAGE value="commit2022123" />
     <MESSAGE value="commit2022124" />
@@ -855,7 +867,8 @@
     <MESSAGE value="update 20230707-2" />
     <MESSAGE value="update 20230710" />
     <MESSAGE value="update 20230718" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 20230718" />
+    <MESSAGE value="update 20230731" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 20230731" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

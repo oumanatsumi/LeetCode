@@ -23,15 +23,15 @@ class Solution {
             return;
         }
         for (int i = 0; i < queen.length; i++) {
-            if(!col.contains(i) && !incline1.contains(i) && !incline2.contains(i)){
+            if(!col.contains(i) && !incline1.contains(i-index) && !incline2.contains(i+index)){
                 col.add(i);
-                incline1.add(i);
-                incline2.add(i);
+                incline1.add(i-index);
+                incline2.add(i+index);
                 queen[index] = i;
                 backTrack(res, index +1, queen, col, incline1, incline2);
                 col.remove(i);
-                incline1.remove(i);
-                incline2.remove(i);
+                incline1.remove(i-index);
+                incline2.remove(i+index);
             }
         }
     }
