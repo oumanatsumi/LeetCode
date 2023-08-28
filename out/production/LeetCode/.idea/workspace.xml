@@ -10,11 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q215/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q287/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q142/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q146/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q206/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q501_1000/Q647/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC358_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC358_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC358_3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC359_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC359_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC359_3/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_500/Q51/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q51/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1_500/Q141/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q141/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1_500/Q5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q5/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,11 +89,11 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="QustionContests.QC355_3" />
-      <recent name="QustionContests.QC355_2" />
-      <recent name="Q2501_3000.Q2762" />
-      <recent name="QustionContests.QC353_4" />
-      <recent name="QustionContests.QC335_4" />
+      <recent name="QustionContests.QC359_3" />
+      <recent name="QustionContests.QC359_2" />
+      <recent name="QustionContests.QC359_1" />
+      <recent name="QustionContests.QC358_3" />
+      <recent name="QustionContests.QC358_2" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -94,13 +102,13 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
+  <component name="RunManager" selected="Application.LRUCache">
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_500.Q146.LRUCache" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Q496.*" />
+          <option name="PATTERN" value="Q1_500.Q146.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QustionContests.QC355_1.Solution" />
+    <configuration name="LeetCode.Q496.Solution" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Q496.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QustionContests.QC355_1.*" />
+          <option name="PATTERN" value="LeetCode.Q496.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2501_3000.Q2762.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QustionContests.QC359_3.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q2501_3000.Q2762.*" />
+          <option name="PATTERN" value="QustionContests.QC359_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -480,14 +488,16 @@
       <workItem from="1690772424639" duration="9890000" />
       <workItem from="1690940190877" duration="1740000" />
       <workItem from="1691456854470" duration="12524000" />
-      <workItem from="1691538977919" duration="760000" />
-    </task>
-    <task id="LOCAL-00001" summary="test一哈">
-      <created>1661147347404</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1661147347404</updated>
+      <workItem from="1691538977919" duration="9040000" />
+      <workItem from="1691630407162" duration="594000" />
+      <workItem from="1691740282836" duration="5721000" />
+      <workItem from="1691805662600" duration="32000" />
+      <workItem from="1691893667981" duration="3126000" />
+      <workItem from="1692365314728" duration="1394000" />
+      <workItem from="1692499350472" duration="4037000" />
+      <workItem from="1692530214400" duration="599000" />
+      <workItem from="1692840185890" duration="3244000" />
+      <workItem from="1692844180315" duration="196000" />
     </task>
     <task id="LOCAL-00002" summary="test一哈">
       <created>1661147886846</created>
@@ -825,7 +835,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690796183611</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="update 20230808">
+      <created>1691540982685</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1691540982685</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -843,7 +860,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit202211272" />
     <MESSAGE value="commit2022123" />
     <MESSAGE value="commit2022124" />
     <MESSAGE value="commit20221211" />
@@ -868,7 +884,8 @@
     <MESSAGE value="update 20230710" />
     <MESSAGE value="update 20230718" />
     <MESSAGE value="update 20230731" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 20230731" />
+    <MESSAGE value="update 20230808" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 20230808" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -902,6 +919,11 @@
           <url>file://$PROJECT_DIR$/QustionContests/QC355_1/Solution.java</url>
           <line>31</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q1_500/Q146/LRUCache.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
