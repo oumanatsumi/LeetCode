@@ -10,19 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83d4fc1-c453-4ffd-bf6f-dcc813493c32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q142/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q146/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_500/Q206/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q501_1000/Q647/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC358_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC358_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC358_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC359_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC359_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QustionContests/QC359_3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1001_1500/Q1329/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_500/Q3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2501_3000/Q2798/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q2501_3000/Q2834/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC363_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC363_2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QustionContests/QC363_3/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_500/Q141/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q141/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1_500/Q5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q1_500/Q5/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +75,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -89,11 +85,11 @@
       <recent name="F:\Codes\LeetCodeRush" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="QustionContests.QC363_3" />
+      <recent name="QustionContests.QC363_2" />
       <recent name="QustionContests.QC359_3" />
       <recent name="QustionContests.QC359_2" />
       <recent name="QustionContests.QC359_1" />
-      <recent name="QustionContests.QC358_3" />
-      <recent name="QustionContests.QC358_2" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -102,7 +98,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.LRUCache">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q1_500.Q146.LRUCache" />
       <module name="LeetCode" />
@@ -129,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_500.Q287.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QustionContests.QC363_2.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q1_500.Q287.*" />
+          <option name="PATTERN" value="QustionContests.QC363_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_500.Q215.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1001_1500.Q1329.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q1_500.Q215.*" />
+          <option name="PATTERN" value="Q1001_1500.Q1329.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,6 +157,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="QustionContests.QC359_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QustionContests.QC363_3.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QustionContests.QC363_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,26 +294,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test1" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -501,14 +497,18 @@
       <workItem from="1692844395249" duration="363000" />
       <workItem from="1692929850029" duration="1196000" />
       <workItem from="1693029616218" duration="598000" />
-      <workItem from="1693227550983" duration="1536000" />
-    </task>
-    <task id="LOCAL-00002" summary="test一哈">
-      <created>1661147886846</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1661147886846</updated>
+      <workItem from="1693227550983" duration="1622000" />
+      <workItem from="1693475755181" duration="3359000" />
+      <workItem from="1693566296182" duration="471000" />
+      <workItem from="1693704734522" duration="1198000" />
+      <workItem from="1693824774314" duration="1800000" />
+      <workItem from="1694915990338" duration="1605000" />
+      <workItem from="1694918677487" duration="84000" />
+      <workItem from="1694918785352" duration="4085000" />
+      <workItem from="1695035695600" duration="599000" />
+      <workItem from="1696692084909" duration="602000" />
+      <workItem from="1714352095836" duration="3757000" />
+      <workItem from="1714438107055" duration="1401000" />
     </task>
     <task id="LOCAL-00003" summary="commit20220822">
       <created>1661148497312</created>
@@ -846,7 +846,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691540982685</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update 20230828">
+      <created>1693238199610</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1693238199611</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -864,7 +871,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit2022123" />
     <MESSAGE value="commit2022124" />
     <MESSAGE value="commit20221211" />
     <MESSAGE value="commit20221214" />
@@ -889,7 +895,8 @@
     <MESSAGE value="update 20230718" />
     <MESSAGE value="update 20230731" />
     <MESSAGE value="update 20230808" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 20230808" />
+    <MESSAGE value="update 20230828" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 20230828" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -923,6 +930,11 @@
           <url>file://$PROJECT_DIR$/QustionContests/QC355_1/Solution.java</url>
           <line>31</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q1001_1500/Q1329/Solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
